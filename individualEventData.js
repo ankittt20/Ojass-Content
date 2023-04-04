@@ -1283,7 +1283,7 @@ export default individualEventData = [
       "The questions will be related to happenings in the Mechanical and Scientific world",
       "The event consists of two rounds- preliminary round followed by the Quiz round.",
     ],
-    prize: [],
+    prize: [3000,2000,1000,500],
     eventHeadName: [
       "Santosh Kumar Paul",
       "Dipu Kumar Srivastava",
@@ -1300,9 +1300,9 @@ export default individualEventData = [
     about:
       "Ansys is a software that enables the analysis of different types of physical components, including structures, thermal, electromagnetic, and fluids. It is typically used alongside other 3-D software or the built-in Design Modeler. The software is now a crucial aspect of many industries as it accurately predicts real-time dynamic, strength, and life of different physical components.",
     rules: [
-      "The ANSYS event will have two rounds. Round 1 is a multiple-choice question (MCQ) format that covers basic mechanical engineering, aptitude, and ANSYS-related questions. Based on the scores from Round 1, teams will be selected to proceed to Round 2. Round 2 is the final round where selected teams will be provided with a problem statement that they have to solve and simulate using ANSYS during the Ojass on-site event. The winner of the event will be determined based on the performance in Round 2. Maximum 2 people allowed per team.",
+      "The ANSYS event will have two rounds."," Round 1 is a multiple-choice question (MCQ) format that covers basic mechanical engineering, aptitude, and ANSYS-related questions."," Based on the scores from Round 1, teams will be selected to proceed to Round 2."," Round 2 is the final round where selected teams will be provided with a problem statement that they have to solve and simulate using ANSYS during the Ojass on-site event."," The winner of the event will be determined based on the performance in Round 2."," Maximum 2 people allowed per team.",
     ],
-    prize: [],
+    prize: [4000,3000,2000,1000],
     eventHeadName: ["SK PAUL", "SHIVAM KUMAR", "SHEKHAR SUMAN"],
     eventHeadNumber: ["6200678249", "7870417743", "9818036539"],
     whatsappLink: "https://chat.whatsapp.com/CswVVzyZQ1Q59gErbQK2Fc",
@@ -1315,10 +1315,13 @@ export default individualEventData = [
       "Every industrial applications are based on the engineering laws, theorems & concepts. To    implement the concepts practically, one should understand the connection of various theories & principles to get the desired output. BOX-CIPHER brings you the opportunity to check it out how much you can remember engineering concepts & principles and how fast you can recognize things and how quick can you make responses to understand its practical utility.",
     rules: [
       "One can participate in teams of at most 2 members.",
+      "Round 1: This will be a pen-paper round consisting of multiple choice and fill in the blank type questions",
+      "Round 2: This will be a written round consisting of numericals on various engineering concepts",
+      "The contents of each round will mainly revolve around the concepts of Mechanical Engineering"
       "The timing of each round will be revealed before that particular round.",
       "In case of discrepancy, the decision of the Event Heads will be final and binding to all.",
     ],
-    prize: [],
+    prize: [3000,2000,1000,500],
     eventHeadName: ["Santosh Kumar Paul", "Priyanshu Singh", "Utkarsh Raj"],
     eventHeadNumber: ["6200678249", "7858067941", "8936804844"],
     whatsappLink: "https://chat.whatsapp.com/Hgus0PNNfRL09wvz4Vy5Xc",
@@ -1330,11 +1333,15 @@ export default individualEventData = [
     about:
       "Are you a fan of numbers, patterns, and logical reasoning? Then MathMagician is the event for you! Join us for a fun-filled day of exploring the fascinating world of mathematics, with engaging activities and challenges that will test your problem-solving skills and inspire your imagination. Moreover, you'll have the opportunity to connect with like-minded individuals who share your passion for math and learn from their diverse perspectives and experiences. So don't miss out on this exciting and rewarding experience - mark your calendar and come join us for the event.",
     rules: [
+     "The event will consist of 2 rounds, preliminary written round followed by the final round.",
+      "Round 1:will be a 45-minute written round and questions will be based on Quantitative Aptitude, Logical Reasoning and Data Interpretation.",
+      "Round 2 will be of 1 hour and based on Quick Maths, Brain Teasers, Memory test, etc.",
+      " Teams must bring their own pens in both the rounds",
       "Each team must comprise 2 members only. (Individual participation not allowed)",
-      "The timing of each round will be revealed before that particular round.",
+      "The timing of each round will be revealed in due time.",
       "In case of discrepancies, the decision of event heads will be final and binding to all.",
     ],
-    prize: [],
+    prize: [3000,2000,1000,500],
     eventHeadName: [
       "Santosh Kumar Paul",
       "Dipu Kumar Srivastava",
@@ -1351,14 +1358,14 @@ export default individualEventData = [
       "Propulsion systems are powerful driving technologies that make it possible to travel long distances. The event in question centers on the use of a water propulsion system in rocket technology, resulting in the development of a working prototype that showcases the practical application of physical concepts. You can put your understanding of kinematics, aerodynamics, and hydraulics to use by constructing a water rocket that can cover the maximum range possible.",
     rules: [
       "Number of students per team: 3",
+      "Round 1: A MCQ test involving related physical concepts and basic Mechanical engineering.",
+      "Round 2: Model-making followed by field launching",
       "Participants are required to bring the materials needed to build their Water Rocket.",
       "The Water Rocket must be made using a 2L water bottle; the rest of the launching equipment will be provided on site.",
       "Team members must launch their Water Rocket themselves under the supervision of the event coordinators.",
-      "Participants will have three chances to launch their model. The maximum range covered out of the three attempts will be considered.",
-      "Round 1: A MCQ test involving related physical concepts and basic Mechanical engineering.",
-      "Round 2: Model-making followed by field launching",
+      "Participants will have three chances to launch their model. The maximum range covered out of the three attempts will be considered."
     ],
-    prize: [],
+    prize: [4000,3000,2000,1000],
     eventHeadName: ["SK PAUL", "Shekhar Suman", "Rajat Raj"],
     eventHeadNumber: ["6200678249", "9818036539", "7979837260"],
     whatsappLink: "https://chat.whatsapp.com/HFFYWnAmtDbHYtNIz3PwmB",
