@@ -1279,9 +1279,14 @@ export default individualEventData = [
     about:
       "Awareness of engineering facts/figures is must when you endeavor to battle your intellectual might and technical prowess. To all the quiz geeks out there, brace yourself and be ready for your quizzing mettle to be tested. It is time to compete with the finest brains of the country and enrich your quizzing skills. Mech Trivia provides a platform to explore the charm of science and technology. To come up as a winner, you need to possess noetic and quick thinking.",
     rules: [
-      "The participating teams can consist of maximum 2 members",
-      "The questions will be related to happenings in the Mechanical and Scientific world",
-      "The event consists of two rounds- preliminary round followed by the Quiz round.",
+    "The participating teams can consist of 1-2 members.",
+      "The event consists of 2 rounds, preliminary written round followed by the Quiz round.",
+      "Round 1 will be a 45-minute pen-paper based MCQ test.",
+      "Round 2 will be a 1-hour quizzing event.",
+      "The questions in both the rounds will be related to Core subjects of mechanical along with happenings in the Mechanical and Scientific world.",
+      "Teams must bring their own pens in both the rounds.",
+      "The timing of each round will be revealed in due time."
+      "In case of discrepancies, the decision of event heads will be final and binding to all."
     ],
     prize: [3000,2000,1000,500],
     eventHeadName: [
@@ -1291,7 +1296,7 @@ export default individualEventData = [
       "Navneet",
     ],
     eventHeadNumber: ["6200678249", "8292110874", "7668258956", "9973129682"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/Lq8bBZXXb33GQ9GTu3rndY",
   },
   {
     mainEvent: "RISE OF MACHINES",
