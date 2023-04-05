@@ -778,7 +778,7 @@ export default individualEventData = [
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Yashraj Singh", "Rambabu Kumar"],
     eventHeadNumber: ["6206 660 481", "73401 38622"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/EAgLXrzf7dEJHkd0p5uNe4",
   },
 
   {
@@ -788,20 +788,20 @@ export default individualEventData = [
     about:
       "Business is a lot like a game of tennis because those who serve well usually end up winning. Ojass’23 brings to your table a perfect business competition that will give you the necessary exposure to the nuts and bolts of being a corporate leader. An event with a perfect blend of activities to showcase your on-spot creativity and grey matter is what TTT is all about. DETAIL: Round 1A quiz event involving questions from both business and technology. This round will be a qualifying round with individual participants. Quiz will be conducted in an online platform but in offline mode. Round 2Buzzword- This round is a lot like an extempore, each participant will be given few business terms and a time duration of 3 mins, to think about it and then speak on the topic including those business terms given to them. To ace, these rounds students need to have a sound knowledge of basic business terms. This is an elimination round. Round 3:Qualifying participants will be given a topic on the spot and they have to present their findings on this topic by means of a ppt, which they have to make on spot in a time duration of 1hr which will be followed by a ppt presentation and cross questioning session. Each participant will be allotted a time duration of 10 mins to present their ppt.",
     rules: [
-      "• This is an individual participation event.",
-      "• Every round is an elimination round.",
-      "• The decision of the panel of judges along with branch heads will be considered final. No further objections regarding their decision will be entertained",
+      "This is an individual participation event.",
+      "Every round is an elimination round.",
+      "The decision of the panel of judges along with branch heads will be considered final. No further objections regarding their decision will be entertained",
     ],
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Homi Koylada"],
     eventHeadNumber: ["9973747564"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/BOJmoSG9yMcLlR4omn99Zu",
   },
   {
     mainEvent: "ARTHASHASTRA",
     eventName: "INVESTOR AND PITCHERS",
     teamSize: "1",
-    about: "",
+    about: "Time is money, they say! What if you had the least time to get the highest money for your business? With this thought, Ojass brings you the Investor & Pitchers to foster innovation and creativity in budding entrepreneurs. In this competition, participants will pitch an idea to a potential investor within a limited time.",
     rules: [
       "Round 1:",
       "For pitchers:",
@@ -837,7 +837,7 @@ export default individualEventData = [
     prize: [7000, 5000, 1000, 4500, 2500],
     eventHeadName: ["Anshu Kumar", "Nikhil Singh"],
     eventHeadNumber: ["8539071332", "80105 31970"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/HNZjdHrHwfi1CEUlYNLECL",
   },
   {
     mainEvent: "ARTHASHASTRA",
@@ -863,11 +863,11 @@ export default individualEventData = [
       "Tarun Anand",
     ],
     eventHeadNumber: [
-      "97983 34066",
-      "96616 00722",
-      "86905 86090",
-      "93342 56040",
-      "99344 99841",
+      "9798334066",
+      "9661600722",
+      "8690586090",
+      "9334256040",
+      "9934499841",
     ],
     whatsappLink: "",
   },
