@@ -7,7 +7,7 @@ export default individualEventData = [
     about:
       "This event is a on-the-spot event and will include building a structure with ice-cream sticks based on the problem statement that will be released on the venue itself. Knowledge of concepts wouldn't be enough, smart use of raw materials will get you past the line, which will obviously be provided on the spot. Register in teams of minimum 4 or maximum 5.",
     rules: [
-      "Round 1:Teams will be given a quiz related to civil engineering and aptitude.",
+      "Round 1: Teams will be given a quiz related to civil engineering and aptitude.",
       "Those who score above a certain threshold will qualify for the second round.",
       "Round 2: Build a simply supported bridge using ice cream sticks.",
     ],
@@ -1621,7 +1621,7 @@ export default individualEventData = [
     eventName: "MECH TRIVIA",
     teamSize: "2",
     about:
-      "Awareness of engineering facts/figures is must when you endeavor to battle your intellectual might and technical prowess. To all the quiz geeks out there, brace yourself and be ready for your quizzing mettle to be tested. It is time to compete with the finest brains of the country and enrich your quizzing skills. Mech Trivia provides a platform to explore the charm of science and technology. To come up as a winner, you need to possess noetic and quick thinking.",
+      "Awareness of engineering facts/figures is must when you endeavor to battle your intellectual might and technical prowess. To all the quiz geeks out there, brace yourself and be ready for your quizzing mettle to be tested. It is time to compete with the finest brains of the country and enrich your quizzing skills. Mech Trivia provides a platform to explore the charm of science and technology. To come up as a winner, you need to possess noetic and quick thinking. The Mech Trivia forms the quizzing event of Rise of Machines. This event will consist of a preliminary written round in which certain number of MCQs will be given to the participants. Based on their performance in the written round, top 5 teams will be promoted to the Quiz round.  The quiz round will consist of various sub-rounds like rapid fire, Buzzer round, Infinite bounce etc. The questions will be generic in nature, related to the happening in the Mechanical and Scientific world and will not be strictly technical.",
     rules: [
       "The participating teams can consist of maximum 2 members",
       "The questions will be related to happenings in the Mechanical and Scientific world",
@@ -1635,16 +1635,22 @@ export default individualEventData = [
       "Navneet",
     ],
     eventHeadNumber: ["6200678249", "8292110874", "7668258956", "9973129682"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/Lq8bBZXXb33GQ9GTu3rndY",
   },
   {
     mainEvent: "RISE OF MACHINES",
-    eventName: "IANSYST",
+    eventName: "ANSYS",
     teamSize: "2",
     about:
-      "Ansys is a software that enables the analysis of different types of physical components, including structures, thermal, electromagnetic, and fluids. It is typically used alongside other 3-D software or the built-in Design Modeler. The software is now a crucial aspect of many industries as it accurately predicts real-time dynamic, strength, and life of different physical components.",
+      "Ansys is a software that enables the analysis of different types of physical components, including structures, thermal, electromagnetic, and fluids. It is typically used alongside other 3-D software or the built-in Design Modeler. The software is now a crucial aspect of many industries as it accurately predicts real-time dynamic, strength, and life of different physical components. The event is an opportunity for Mechanical and Production Engineering students to gain knowledge and practical experience in design and analysis using ANSYS. The date and venue of the event will be announced soon. In Round 1, students will take a 60-minute test covering basic mechanical engineering, aptitude, and ANSYS-related questions. Students can participate individually or in a team of up to two members. In Round 2, students will be provided with a problem statement that they have to design and simulate using ANSYS.",
     rules: [
-      "The ANSYS event will have two rounds. Round 1 is a multiple-choice question (MCQ) format that covers basic mechanical engineering, aptitude, and ANSYS-related questions. Based on the scores from Round 1, teams will be selected to proceed to Round 2. Round 2 is the final round where selected teams will be provided with a problem statement that they have to solve and simulate using ANSYS during the Ojass on-site event. The winner of the event will be determined based on the performance in Round 2. Maximum 2 people allowed per team.",
+      "Round 1:",
+      "It is a multiple-choice question (MCQ) format that covers basic mechanical engineering, aptitude, and ANSYS-related questions.",
+      "Based on the scores from Round 1, teams will be selected to proceed to Round 2.",
+      "Round 2:",
+      "It is the final round where selected teams will be provided with a problem statement that they have to solve and simulate using ANSYS during the Ojass on-site event.",
+      "The winner of the event will be determined based on the performance in Round 2.",
+      "Maximum 2 people allowed per team.",
     ],
     prize: [],
     eventHeadName: ["SK PAUL", "SHIVAM KUMAR", "SHEKHAR SUMAN"],
@@ -1656,11 +1662,19 @@ export default individualEventData = [
     eventName: "BOX CIPHER",
     teamSize: "2",
     about:
-      "Every industrial applications are based on the engineering laws, theorems & concepts. To    implement the concepts practically, one should understand the connection of various theories & principles to get the desired output. BOX-CIPHER brings you the opportunity to check it out how much you can remember engineering concepts & principles and how fast you can recognize things and how quick can you make responses to understand its practical utility.",
+      "Every industrial applications are based on the engineering laws, theorems & concepts. To implement the concepts practically, one should understand the connection of various theories & principles to get the desired output. BOX-CIPHER brings you the opportunity to check it out how much you can remember engineering concepts & principles and how fast you can recognize things and how quick can you make responses to understand its practical utility.",
     rules: [
-      "One can participate in teams of at most 2 members.",
-      "The timing of each round will be revealed before that particular round.",
-      "In case of discrepancy, the decision of the Event Heads will be final and binding to all.",
+      "Round 1:",
+      "This will be a pen-paper round consisting of multiple choice and fill in the blank type questions.",
+      "Round 2:",
+      "This will be a written round consisting of puzzles on various engineering concepts.",
+      "Round 3:",
+      "This will be a rapid fire round in which teams will be asked back-to-back questions in a limited amount of time.",
+      "The contents of each round will mostly revolve around the mechanical engineering concepts.",
+      "Rules:",
+      "1. One can participate in teams of at most 2 members.",
+      "2. The timing of each round will be revealed before that particular round.",
+      "3. In case of discrepancy, the decision of the Event Heads will be final and binding to all.",
     ],
     prize: [],
     eventHeadName: ["Santosh Kumar Paul", "Priyanshu Singh", "Utkarsh Raj"],
@@ -1674,9 +1688,16 @@ export default individualEventData = [
     about:
       "Are you a fan of numbers, patterns, and logical reasoning? Then MathMagician is the event for you! Join us for a fun-filled day of exploring the fascinating world of mathematics, with engaging activities and challenges that will test your problem-solving skills and inspire your imagination. Moreover, you'll have the opportunity to connect with like-minded individuals who share your passion for math and learn from their diverse perspectives and experiences. So don't miss out on this exciting and rewarding experience - mark your calendar and come join us for the event.",
     rules: [
-      "Each team must comprise 2 members only. (Individual participation not allowed)",
-      "The timing of each round will be revealed before that particular round.",
-      "In case of discrepancies, the decision of event heads will be final and binding to all.",
+      "Round 1 (Aptitude – DI-LR, Quant):",
+      "This will be a pen-paper round which will test the quantitative skills of the team. The questions will be from Data Interpretation, Logical Reasoning, and Quantitative Aptitude.",
+      "Round 2(Mathematics – Application based with Mechanical tint):",
+      "This will also be a pen-paper round but will test your application-based Mathematical Skills.",
+      "Round 3(Puzzles, Brain Teasers, Rapid Fire)",
+      "This final round will touch all genres of mathematics through puzzles, brainteasers, rapid-fire, quick maths, etc.",
+      "Rules:",
+      "1. Each team must comprise 2 members only. (Individual participation not allowed)",
+      "2. The timing of each round will be revealed before that particular round.",
+      "3. In case of discrepancies, the decision of event heads will be final and binding to all.",
     ],
     prize: [],
     eventHeadName: [
