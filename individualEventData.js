@@ -568,7 +568,7 @@ export default individualEventData = [
     whatsappLink: "https://chat.whatsapp.com/H5SMVTIQpjxCJq2uDbVmVd",
   },
   {
-    mainEvent: "AAVARTAN",
+     mainEvent: "AAVARTAN",
     eventName: "META-DATA",
     teamSize: "3",
     about:
@@ -589,7 +589,7 @@ export default individualEventData = [
     eventName: "SPECTRA",
     teamSize: "3",
     about:
-      "A poster presentation competition that brings students together to display and share their knowledge, ideas, and creativity with a panel of scholars and titans of the scientific community.",
+      "A poster presentation competition that brings students together to display and share their knowledge, ideas, and creativity with a panel of scholars and titans of the scientific community.Posters are designed to be informative and appealing, combining text and illustrations to reach out to the audience. Join this platform and get a chance to win monetary rewards, the judgment of which will be done based on the content and design of the poster and the quality of the presentation.",
     rules: [
       "Consists of two rounds: 1) Poster Submission {13.04.2023} As per the theme disclosure on the 10th of April. 2) Poster Presentation & Explanation",
       " The respective posters of teams will be presented on the projectors",
@@ -627,7 +627,7 @@ export default individualEventData = [
     eventName: "KNOCK-OUT",
     teamSize: "3",
     about:
-      "An event of Aavartan provides a platform for students to check their capability in quick decision-making and pressure handling. Since this year’s events are open to all branches, this event comprises events approachable to all students.",
+      "An event of Aavartan provides a platform for students to check their capability in quick decision-making and pressure handling. Since this year’s events are open to all branches, this event comprises events approachable to all students.Knock-out will comprise 2 rounds.First round will be a quantitative and qualitative aptitude test round.Shortlisted students will be divided into groups of 3 candidates each for the second round where questions will be open to all groups which will be a knock-out round. ",
     rules: [
       "Questions in the Knock-Out round will be asked from Entertainment Sector, General Science, Current Affairs, etc.",
       "For each wrong answer, one member will be eliminated from the respective group and the question will be passed on to the next adjacent group. ",
@@ -666,7 +666,7 @@ export default individualEventData = [
     eventName: "METAL TRIVIA",
     teamSize: "2",
     about:
-      "A great quiz about materials and material engineering and have great fun and time quizzing.",
+      "A great quiz about materials and material engineering and have great fun and time quizzing. This event consists of two round quizzes in which every team will be asked to answer a questionnaire in a stipulated time. All the questions will be asked related to materials science or will be based on some current affairs related to our core domain itself. Round I – General Aptitude. Round II – Quiz from the world of Materials Science.",
     rules: [
       "Each team will consist of two members.",
       "Each question will have 10 points and to answer the same 15 seconds will be provided.",
@@ -1050,7 +1050,7 @@ export default individualEventData = [
     eventName: "0 PX",
     teamSize: "2",
     about:
-      "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away. We are elated to announce this brand-new development event aimed specifically at frontend developers. If you believe that design precedes all, this is THE event for you!",
+      "A designer knows he has achieved perfection, not when there is nothing left to add, but when there is nothing left to take away. We are elated to announce this brand-new development event aimed specifically at frontend developers. If you believe that design precedes all, this is THE event for you!",
     rules: [
       "Duration - 1.5 hour",
       "Each team can consist of either 1 to 2 members",
@@ -1086,7 +1086,7 @@ export default individualEventData = [
     eventName: "CODE-O-SOCCER",
     teamSize: "2",
     about:
-      "Vishwa-Code Genesis brings for you an event called Code-O-Soccer, which asks you give brains to the computer so that it can think the way you think. So be prepared to crack your logical and coding skills and whack your opponents with your own artificial intelligent system.",
+      "Vishwa-Code Genesis brings for you an event called Code-O-Soccer, which asks you to give brains to the computer so that it can think the way you think. So be prepared to crack your logical and coding skills and whack your opponents with your own artificial intelligence system.",
     rules: [
       "Participation needs to be done in teams of 2.",
       "It’s a 2 hour event.",
@@ -1138,7 +1138,7 @@ export default individualEventData = [
       "There would be separate prizes for first year students.",
       "Final year students won’t be allowed to participate.",
     ],
-    prize: [10000, 7500, 4500, 1500],
+    prize: [10000, 7500, 4000, 1500],
     eventHeadName: ["Zishan Ahmad"],
     eventHeadNumber: ["9142344596"],
     whatsappLink: "https://chat.whatsapp.com/DVd3HVSEuKBL3XTxDtk6CD",
@@ -1403,11 +1403,11 @@ export default individualEventData = [
     whatsappLink: "https://chat.whatsapp.com/G7goMoD8qEkBHMxxhVltVq",
   },
   {
-    mainEvent: "PRODUS",
+     mainEvent: "PRODUS",
     eventName: "M & I Quiz",
     teamSize: "1",
     about:
-      "Bring out the quizzer inside you with a bang! This year, it gets bigger and better than the previous editions due to lots of college quizzers as well as non-quizzers testing their knowledge of industrial terminologies, trivia, know-how, and much more on offer.",
+      "Bring out the quizzer inside you with a bang! This year, it gets bigger and better than the previous editions due to lots of college quizzers as well as non-quizzers testing their knowledge of industrial terminologies, trivia, know-how, and much more on offer. There will be two rounds: Prelims and Finals.",
     rules: [
       "Participation must be in solo mode.",
       "Prelims will be in written mode on pen and paper.",
@@ -1418,7 +1418,7 @@ export default individualEventData = [
     ],
     prize: [3500, 2000, 1500, 500],
     eventHeadName: ["Prabhat Kumar", "Shristi Chauhan"],
-    eventHeadNumber: ["8789661668", "Shristi Chauhan"],
+    eventHeadNumber: ["8789661668", "9693033400"],
     whatsappLink: "https://chat.whatsapp.com/EIDh50VMBA18o3iLopvCdr",
   },
   {
@@ -1427,7 +1427,24 @@ export default individualEventData = [
     teamSize: "1",
     about:
       "Designing is one of the most important aspects of Production and Industrial Engineering. This field demands for the best design usage to optimize quality, workspace and motion of manpower, materials, and money in the organization. This event provides an opportunity for the designers amongst to showcase the optimal design solutions for the automotive parts in question using CATIA V5 / Solidworks software. This software is used in design in various fields such as automobiles, manufacturing etc. making it a necessary skill to possess in industrial sectors.",
-    rules: [],
+    rules: [
+    "Round 1:",
+     "Participation must be in solo mode.",
+     "There will be 3 rounds in total.",
+     "First round will be uploading of 2-D sketches on Google Drive.",
+     "The sketches must be fully constrained, a negligence of which shall lead to disqualification.",
+    "Round 2:",
+     "Participants must design a 3D model based on the drafting provided.",
+     "Participants must install the latest version of CATIA V5 / Solidworks beforehand.",
+     "A total of 6 Players will make it to the finals.",
+    "Round 3:",
+     "Participate have to perform drafting of the model provide by us.",
+     "There will be three winners for this event.",
+     "All participants must have their own laptops and chargers.",
+    "Finalists and audience will also get exciting rewards.",
+    "The jury will be looking for an optimized solution for the given design problem.",
+    "The decision of the jury shall remain final, unquestionable, and unamendable.",
+    ],
     prize: [3500, 2000, 1500, 1000],
     eventHeadName: ["Arnab Nandi"],
     eventHeadNumber: ["8877398860"],
@@ -1466,6 +1483,10 @@ export default individualEventData = [
       "The solution file must be submitted within the allotted time frame.",
       "The decision of the jury shall remain final, unquestionable, and unamendable.",
       "All first-year teams will be considered for special privileges.",
+     "ROUND 1:",
+       "The dataset will be provided in the form of xlsx & the solution is to be submitted using machine learning tools with in the given time.",
+     "ROUND 2:",
+      "This round will be a ppt presentation round of that obtained solution in front of the jury.",
     ],
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Priyanshu Kumar"],
@@ -1474,14 +1495,31 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRODUS",
-    eventName: "Industrial Tycoon",
+    eventName: "Industrial Tycoon-Reboot",
     teamSize: "3",
     about:
-      "This event has 2 rounds to ignite and cherish the budding entrepreneurs amongst us. Everybody has dreamt creating value for the society by producing something or providing service to people, alongside generating employment for various people. To nurture the same spirit, we are back with our flagship event Industrial Tycoon after a long halt.",
+      "This event has 2 rounds to ignite and cherish the budding entrepreneurs amongst us. Everybody has dreamt creating value for the society by producing something or providing service to people, alongside generating employment for various people. To nurture the same spirit, we are back with our flagship event Industrial Tycoon after a long halt.The first round will be based on abstract submission in presentation format for the problem for which the industry is in need of a solution.Top 9 teams will proceed to the next round.The second round will be an opportunity to showcase a detailed presentation as a business report used to pitch this idea in front of a team of judges.",
     rules: [
-      "The first round will be based on abstract submission in presentation format for the problem for which the industry is in need of a solution.",
-      "Top 9 teams will proceed to the next round.",
-      "The second round will be an opportunity to showcase a detailed presentation as a business report used to pitch this idea in front of a team of judges.",
+    "ROUND 1:",
+     "1st round will be elimination round.",
+     "Participate in teams of 2-3 members.",
+     "A solution must be prepared for the problems related to development and operations of National Master Plan for Multi-Modal Connectivity, i.e., PM GatiShakti plan.",
+     "The solutions must be submitted in PPT format.",
+     "No restrictions in slide numbers.",
+     "Separate marks shall be allotted for best problem identification as well as for appropriate business solutions to resolve them.",
+     "The language in use must have business terms which shall add extra points for the selection.",
+     "Use of interactive dashboards, excel sheets and verified data will add spice and points, but the data and calculations must be correct for the judges to check.",
+     "All first-year teams will be considered for special privileges.",
+     "Teams will be shortlisted on the basis of their abstracts and will proceed to 2nd round.",
+    "ROUND 2:",
+      "Top 9 teams will make-up to this round.",
+      "This is an evaluation stage where questions will be asked on the basis of their abstracts.",
+      "The pitch must be presented in front of a jury.",
+      "The jury shall decide as to which team presented the best of problems and business solutions.",
+      "The decision of the jury shall remain final, unquestionable, and unamendable.",
+      "All the team members must be present and are expected to present/ explain the key points in the pitch.",
+      "Jury is free to ask their queries in the pitch, participants are expected to answer them with utmost respect and humility.",
+      "Separate consolation prizes are also applicable.",
     ],
     prize: [7000, 5000, 3000, 1000],
     eventHeadName: ["Priyanshu Sinha"],
