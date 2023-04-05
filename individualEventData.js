@@ -1168,7 +1168,7 @@ export default individualEventData = [
             "This event will consist of a preliminary written round in which certain number of MCQ's will be given to the participants.",
             "Based on their performance in the written round, top 5 teams will be promoted to the Quiz round.",
             "The Quiz round will consist of various sub-rounds like rapid fire, Buzzer round, Infinite Bounce etc.",
-            "The exact format and the marking scheme of the Quiz round will be unveiled at the event."
+            "The exact format and the marking scheme of the Quiz round will be unveiled at the event.",
             "The questions will be related to happenings in the Automobile world.",
             "The questions will be of generic nature and will not be strictly blended towards technical aspects."
            ],
@@ -1230,7 +1230,7 @@ export default individualEventData = [
       "The robot must traverse a specified trajectory with straight and curved lines, and avoid obstacles.",
       "Based on the points secured, the top 15% of the total no. of participating teams will qualify for the next round and they will be informed of their selection for the next round.",
       "Marking Scheme (Round 1):",
-      "(Criteria) - (Points)"
+      "(Criteria) - (Points)",
       "Time-saving bonus(A) - (300 - Time taken in seconds) * 2",
       "Bonus points on reaching the destination(B) - 50",
       "Bonus points for reaching checkpoint (C) - 5",
@@ -1242,7 +1242,7 @@ export default individualEventData = [
       "It should indicate whether it is following line or a wall with the help of LED.",
       "Based on the points secured top 3 teams will be awarded.",
       "Marking Scheme (Round 2):",
-      "(Criteria) - (Points)"
+      "(Criteria) - (Points)",
       "Time-saving bonus(A) - (480 - Time taken in seconds) * 2 ",
       "Bonus points on reaching the destination(B) - 50",
       "Bonus points on choosing the shortest path(C) - 60",
@@ -1550,7 +1550,7 @@ export default individualEventData = [
       "Assistance in the use of visual aids is advisable. Film clips, if used, may not exceed one minute in total duration. Film clips may not be accompanied by recorded narration.",
       "Flight Round (There will be two flight rounds in the competition):",
       "First Round: Complete multiple horizontal EIGHT (shape) and horizontal ZERO loops safely within a time limit of 90 seconds.",
-      "Second Round: Add extra weight to the aircraft and complete a horizontal loop followed by a safe landing. Each team would be given two trials for a successful takeoff in each flight round."
+      "Second Round: Add extra weight to the aircraft and complete a horizontal loop followed by a safe landing. Each team would be given two trials for a successful takeoff in each flight round.",
       "TEAM STRUCTURE: ",
       "Maximum of four members in a team.",
       "Members of a team may be from the same or a different college or university.",
