@@ -763,7 +763,7 @@ export default individualEventData = [
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Anish Agarwal"],
     eventHeadNumber: ["7470662621"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/JOKD03GEMNoBQMThJKuB7l",
   },
   {
     mainEvent: "ARTHASHASTRA",
