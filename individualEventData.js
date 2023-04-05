@@ -451,7 +451,7 @@ export default individualEventData = [
       "9. Decision of the organizing team is final.",
       "10. Team Phocus and Team Ojass have rights to upload your submitted video in their Social Media Handle (Instagram Page, Facebook page, YouTube Channel, etc).",
     ],
-    prize: [],
+    prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["SNEH PRIYA"],
     eventHeadNumber: ["+918603809850"],
     whatsappLink: "https://chat.whatsapp.com/Bi5OLKENYxr5SeVoRCkCuy",
