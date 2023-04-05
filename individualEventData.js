@@ -841,18 +841,18 @@ export default individualEventData = [
   },
   {
     mainEvent: "ARTHASHASTRA",
-    eventName: "BIZTECH QUIZ",
+    eventName: "BIZZATHALON",
     teamSize: "2",
     about:
       " Ignite the quizzing spirit inside you and help you explore the ever-interesting field of quizzing! This year, it gets bigger and better, with questions ranging from Musk taking over Twitter to SVB collapse to ChatGPT, the quiz will focus on all the aspects of business to tech trivia.",
     rules: [
       "1. Participation must be in teams of 2.",
-      " 2. Prelims will be in written mode on pen and paper (No negative marking).",
-      " 3. Top 8 teams will make it to the finals from the prelims.",
-      " 4. Finals will have multiple rounds and the rules for the same will be declared after the prelims",
-      " 5. Cash prizes for top 3 teams of the quiz..",
-      " 6. Finalists will also receive cash prizes.",
-      " 7. The audience will also get exciting prizes for their answers.",
+      "2. Prelims will be in written mode on pen and paper (No negative marking).",
+      "3. Top 8 teams will make it to the finals from the prelims.",
+      "4. Finals will have multiple rounds and the rules for the same will be declared after the prelims",
+      "5. Cash prizes for top 3 teams of the quiz..",
+      "6. Finalists will also receive cash prizes.",
+      "7. The audience will also get exciting prizes for their answers.",
     ],
     prize: [8000, 7000, 5000, 1000],
     eventHeadName: [
@@ -869,7 +869,7 @@ export default individualEventData = [
       "9334256040",
       "9934499841",
     ],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/EjAEpVLIcOsKTQmBrwakpP",
   },
   {
     mainEvent: "SILICON VALLEY",
