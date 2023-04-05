@@ -292,7 +292,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NEO DRISHTI",
-    eventName: "TAME THE PYTHiON",
+    eventName: "TAME THE PYTHON",
     teamSize: "1",
     about:
       "Python is among the most preferred programming languages, and it is used widely today because of its potential. As it is easy to learn, many non-programmers, such as accountants and scientists, have embraced Python. So Tame the python is bringing you a chance to explore the burrow of python By using the extensive libraries and frameworks of Python language you will be expected to find some crawly bugs that swept in during the coding project experiment and we will be expecting a cage big enough to tame the Python of course. Multiple paths will confuse you, so choose your weapon smartly and delve deep into this Python quest.",
@@ -1781,7 +1781,7 @@ export default individualEventData = [
     mainEvent: "ARMAGEDDON",
     eventName: "CHESS",
     teamSize: "1",
-    about: "",
+    about: "Chess is a board game for two players, called White and Black, each controlling an army of chess pieces in their color, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to distinguish it from related games, such as xiangqi (Chinese chess) and shogi (Japanese chess).Today, chess is one of the world's most popular games, played by millions of people worldwide.",
     rules: [
       "Duration: 60 min",
       "Format: 5+3 (5 min with 3-sec increments) | Standard | Lichess Swiss",
