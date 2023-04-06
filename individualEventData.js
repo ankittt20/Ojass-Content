@@ -444,11 +444,11 @@ export default individualEventData = [
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Sambhav Singh", "Ayushi Baidya"],
     eventHeadNumber: ["8298717745", "8527635107"],
-    whatsappLink: "https://chat.whatsapp.com/DTOebgOsv2rKhfxRLAY80Q",
+    whatsappLink: "https://chat.whatsapp.com/DTOebgOsv2rKhfxRLAy8OQ",
   },
   {
     mainEvent: "NCFF",
-    eventName: "KHANIKAR",
+    eventName: "KAHANIKAR",
     teamSize: "3",
     about:
       "SHARE YOUR STORY-CAPTURE YOUR MOMENT! Do you have a passion for creating memories and telling stories? If so, Kahanikar is the perfect event for you! Here, you can showcase your experiences and make some unforgettable memories! Let your words flow out with all your emotions and get a chance to portray yourself as the next Neelesh Mishra.",
