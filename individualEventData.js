@@ -1857,7 +1857,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "General Quiz with a Scientific Twist - A School Quiz",
-    eventName: "General Quiz with a Scientific Twist - A School Quiz (EVENT IS LIVE NOW!!!)",
+    eventName: "General Quiz with a Scientific Twist - A School Quiz",
     teamSize: "1",
     about: "",
     rules: [
