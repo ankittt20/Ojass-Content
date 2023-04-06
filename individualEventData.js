@@ -1648,11 +1648,16 @@ export default individualEventData = [
     about:
       "Awareness of engineering facts/figures is must when you endeavor to battle your intellectual might and technical prowess. To all the quiz geeks out there, brace yourself and be ready for your quizzing mettle to be tested. It is time to compete with the finest brains of the country and enrich your quizzing skills. Mech Trivia provides a platform to explore the charm of science and technology. To come up as a winner, you need to possess noetic and quick thinking. The Mech Trivia forms the quizzing event of Rise of Machines. This event will consist of a preliminary written round in which certain number of MCQs will be given to the participants. Based on their performance in the written round, top 5 teams will be promoted to the Quiz round.  The quiz round will consist of various sub-rounds like rapid fire, Buzzer round, Infinite bounce etc. The questions will be generic in nature, related to the happening in the Mechanical and Scientific world and will not be strictly technical.",
     rules: [
-      "The participating teams can consist of maximum 2 members",
-      "The questions will be related to happenings in the Mechanical and Scientific world",
-      "The event consists of two rounds- preliminary round followed by the Quiz round.",
+      "The participating teams can consist of 1-2 members.",
+      "The event consists of 2 rounds, preliminary written round followed by the Quiz round.",
+      "Round 1 will be a 45-minute pen-paper based MCQ test.",
+      "Round 2 will be a 1-hour quizzing event.",
+      "The questions in both the rounds will be related to Core subjects of mechanical along with happenings in the Mechanical and Scientific world.",
+      "Teams must bring their own pens in both the rounds.",
+      "The timing of each round will be revealed in due time.",
+      "In case of discrepancies, the decision of event heads will be final and binding to all."
     ],
-    prize: [],
+    prize: [3000,2000,1000,500],
     eventHeadName: [
       "Santosh Kumar Paul",
       "Dipu Kumar Srivastava",
@@ -1664,7 +1669,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "RISE OF MACHINES",
-    eventName: "ANSYS",
+    eventName: "IANSYST",
     teamSize: "2",
     about:
       "Ansys is a software that enables the analysis of different types of physical components, including structures, thermal, electromagnetic, and fluids. It is typically used alongside other 3-D software or the built-in Design Modeler. The software is now a crucial aspect of many industries as it accurately predicts real-time dynamic, strength, and life of different physical components. The event is an opportunity for Mechanical and Production Engineering students to gain knowledge and practical experience in design and analysis using ANSYS. The date and venue of the event will be announced soon. In Round 1, students will take a 60-minute test covering basic mechanical engineering, aptitude, and ANSYS-related questions. Students can participate individually or in a team of up to two members. In Round 2, students will be provided with a problem statement that they have to design and simulate using ANSYS.",
@@ -1677,7 +1682,7 @@ export default individualEventData = [
       "The winner of the event will be determined based on the performance in Round 2.",
       "Maximum 2 people allowed per team.",
     ],
-    prize: [],
+    prize: [4000,3000,2000,1000],
     eventHeadName: ["SK PAUL", "SHIVAM KUMAR", "SHEKHAR SUMAN"],
     eventHeadNumber: ["6200678249", "7870417743", "9818036539"],
     whatsappLink: "https://chat.whatsapp.com/CswVVzyZQ1Q59gErbQK2Fc",
@@ -1701,7 +1706,7 @@ export default individualEventData = [
       "2. The timing of each round will be revealed before that particular round.",
       "3. In case of discrepancy, the decision of the Event Heads will be final and binding to all.",
     ],
-    prize: [],
+    prize: [3000,2000,1000,500],
     eventHeadName: ["Santosh Kumar Paul", "Priyanshu Singh", "Utkarsh Raj"],
     eventHeadNumber: ["6200678249", "7858067941", "8936804844"],
     whatsappLink: "https://chat.whatsapp.com/Hgus0PNNfRL09wvz4Vy5Xc",
@@ -1713,18 +1718,15 @@ export default individualEventData = [
     about:
       "Are you a fan of numbers, patterns, and logical reasoning? Then MathMagician is the event for you! Join us for a fun-filled day of exploring the fascinating world of mathematics, with engaging activities and challenges that will test your problem-solving skills and inspire your imagination. Moreover, you'll have the opportunity to connect with like-minded individuals who share your passion for math and learn from their diverse perspectives and experiences. So don't miss out on this exciting and rewarding experience - mark your calendar and come join us for the event.",
     rules: [
-      "Round 1 (Aptitude – DI-LR, Quant):",
-      "This will be a pen-paper round which will test the quantitative skills of the team. The questions will be from Data Interpretation, Logical Reasoning, and Quantitative Aptitude.",
-      "Round 2(Mathematics – Application based with Mechanical tint):",
-      "This will also be a pen-paper round but will test your application-based Mathematical Skills.",
-      "Round 3(Puzzles, Brain Teasers, Rapid Fire)",
-      "This final round will touch all genres of mathematics through puzzles, brainteasers, rapid-fire, quick maths, etc.",
-      "Rules:",
-      "1. Each team must comprise 2 members only. (Individual participation not allowed)",
-      "2. The timing of each round will be revealed before that particular round.",
-      "3. In case of discrepancies, the decision of event heads will be final and binding to all.",
+      "The event will consist of 2 rounds, preliminary written round followed by the final round.",
+      "Round 1 will be a 45-minute written round and questions will be based on Quantitative Aptitude, Logical Reasoning and Data Interpretation.",
+      "Round 2 will be of 1 hour and based on Quick Maths, Brain Teasers, Memory test, etc.",
+      "Teams must bring their own pens in both the rounds.",
+      "Each team must comprise 2 members only. (Individual participation not allowed)",
+      "The timing of each round will be revealed in due time.",
+      "In case of discrepancies, the decision of event heads will be final and binding to all."
     ],
-    prize: [],
+    prize: [3000,2000,1000,500],
     eventHeadName: [
       "Santosh Kumar Paul",
       "Dipu Kumar Srivastava",
@@ -1748,7 +1750,7 @@ export default individualEventData = [
       "Round 1: A MCQ test involving related physical concepts and basic Mechanical engineering.",
       "Round 2: Model-making followed by field launching",
     ],
-    prize: [],
+    prize: [4000,3000,2000,1000],
     eventHeadName: ["SK PAUL", "Shekhar Suman", "Rajat Raj"],
     eventHeadNumber: ["6200678249", "9818036539", "7979837260"],
     whatsappLink: "https://chat.whatsapp.com/HFFYWnAmtDbHYtNIz3PwmB",
