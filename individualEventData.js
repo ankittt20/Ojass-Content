@@ -297,16 +297,15 @@ export default individualEventData = [
     about:
       "Python is among the most preferred programming languages, and it is used widely today because of its potential. As it is easy to learn, many non-programmers, such as accountants and scientists, have embraced Python. So Tame the python is bringing you a chance to explore the burrow of python By using the extensive libraries and frameworks of Python language you will be expected to find some crawly bugs that swept in during the coding project experiment and we will be expecting a cage big enough to tame the Python of course. Multiple paths will confuse you, so choose your weapon smartly and delve deep into this Python quest.",
     rules: [
-      "Individual participation for first round.",
-      "Team participants for second round with maximum of 2 participants.",
+      "Individual participation for first and second round.",
       "There will be no penalties or negative marking in any rounds.",
       "Any form of unfair means will lead to disqualification.",
       "Decision of judges will be final and not further questionable.",
       "Participating team must bring their laptop and pens and they will be providing sheets for solving questions. In each team there should be only one laptop and candidates cannot change their laptop during contest.",
     ],
     prize: [4000, 2500, 1500, 1000],
-    eventHeadName: ["Aman Tiwari"],
-    eventHeadNumber: ["+919754234746"],
+    eventHeadName: ["Dharman Shah"],
+    eventHeadNumber: ["+918849971331"],
     whatsappLink: "https://chat.whatsapp.com/JA9vOJOUnKD3fqYR8gD1wx",
   },
   {
