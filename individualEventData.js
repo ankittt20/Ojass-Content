@@ -1866,7 +1866,7 @@ export default individualEventData = [
     prize: [],
     eventHeadName: ["Animesh (Branch Head)","Somil","Aditya"],
     eventHeadNumber: ["9334619002","8303650385","7355704537"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/CGXgQch2FjULmVLDC2stRK",
   },
   {
     mainEvent: "ELEVATOR PITCH",
@@ -1891,7 +1891,7 @@ export default individualEventData = [
     prize: [],
     eventHeadName: ["Animesh (Branch Head)","Somil","Aditya"],
     eventHeadNumber: ["9334619002","8303650385","7355704537"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/CuIYSkWosqs3pU9m9eYd0y",
   },
   {
     mainEvent: "General Quiz with a Scientific Twist - A School Quiz",
