@@ -1913,6 +1913,6 @@ export default individualEventData = [
     ],
     eventHeadName: ["Abhishek Kumar","Sutej Sharma"],
     eventHeadNumber: ["+91 70047 02238","9798334066"],
-    whatsappLink: "",
+    whatsappLink: "https://chat.whatsapp.com/ImbnkkwWt8SIeGH7xMaaE3",
   },
 ];
