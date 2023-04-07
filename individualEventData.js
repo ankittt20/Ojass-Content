@@ -1497,14 +1497,14 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRODUS",
-    eventName: "Hack the Data",
+    eventName: "Hack the Data 2.0",
     teamSize: "2",
     about:
       "After the grand success of this event in its previous edition in 2022, this event is back for another round. It has a new organising team this time. Data Analytics and Machine Learning are the growing fields in industrial belts around the world. With the advent of newer technologies leading to the build-up of Industry 4.0, these fields continue to grow and the skills are in market demand with growing supply of talented individuals too. This event demands students to examine & analyse the dataset for useful parameters to improvise the best and most optimal insights of the solution.",
     rules: [
       "Participants must form teams of two members.",
       "The dataset would have all kinds of features.",
-      "Solutions must be presented in xlsx or csv format for evaluation.",
+      "Solutions must be presented in ipynb format(either jupiter notebook , google colab or any other)in the form of python file for evaluation.",
       "The solution file must be submitted within the allotted time frame.",
       "The decision of the jury shall remain final, unquestionable, and unamendable.",
       "All first-year teams will be considered for special privileges.",
