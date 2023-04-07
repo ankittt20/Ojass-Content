@@ -33,7 +33,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "AAKRITI",
-    eventName: "Exempler",
+    eventName: "EXEMPLER",
     teamSize: "3",
     about:
       "Intelligent problems require unique solutions. So, Ojass'23 introduces to you EXEMPLAR, a ppt making event to call out the civil engineering maniacs to pick up problems of the society and propose solutions for them. Register in teams of minimum 2 or maximum 3",
@@ -123,7 +123,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "CIRCUIT HOUSE",
-    eventName: "MAT-SIM",
+    eventName: "MAT SIM",
     teamSize: "1",
     about:
       "An event that allows to implement your knowledge of mathematics, circuit-solving,  	programming and various other fields through a two in one software called MATLAB which has both platforms one for the codes and the other for the circuits that is provided by the same software under SIMULINK environment.",
@@ -145,7 +145,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "CIRCUIT HOUSE",
-    eventName: "ELIXIR OF ELECTRICITY",
+    eventName: "Elixir of electricity",
     teamSize: "2",
     about:
       "In ingenious thinking as electrical engineers, participants have to devise something useful. Innovation should be there. Participants may like to implement some devices or invent something. They may suggest some small and innovative changes (e.g. UJALA program by Govt, Brownout as suggested by Ashok Jhunjhunwala). DETAILS: Participating teams need to submit an abstract of their idea (PDF preferably) not exceeding 3 pages at (https://forms.gle/HFrzegtxgPaLrTtK6) 3 weeks before the event. And the list of selected teams will be released 1 week before the event. Selected teams would be required to give PPT along with a poster presentation. The model demonstration would be given weightage. 8 teams will be selected and out of which 3 spots will be reserved for 1st-year students.",
@@ -164,7 +164,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "CIRCUIT HOUSE",
-    eventName: "ELECTRO Q",
+    eventName: "ELECTRO-Q",
     teamSize: "2",
     about:
       "Electrical Science has revealed to us that light has provided us with innumerable appliances. and instruments of protection and has thereby vastly added to the exactness of our knowledge. It's time to showcase and polish your perception to the world of Electrical and Electronics in this event of Ojass'23. This is for all branches. ROUND 1: This round will be a written objective test in which questions will be asked via the audio-visual medium. Questions will be from basics of Electrical and Electronics, scientific inventions, and physical phenomenon related to this field. Marking scheme: 3 marks for every correct answer and a deduction of 1 mark for an incorrect answer. The top 6 teams will qualify for the second round. In the top 6 one spot is reserved for 1st years. ROUND 2: In this round, the teams will be asked questions from diversified aspects of Electrical and Electronics Engineering. It will consist of answer and pass rounds, buzzer rounds, and bunch questions round. There will be brownie points for certain questions. This round is just like a proper quizzing round.",
@@ -181,7 +181,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "CIRCUIT HOUSE",
-    eventName: "ELECTROSPECTION",
+    eventName: "Electrospection",
     teamSize: "1",
     about:
       "This is the flagship event under CIRCUIT HOUSE. The event consists of two rounds and is open for students of all branches.",
@@ -241,7 +241,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRAYAS",
-    eventName: "PRATIBIMB",
+    eventName: "pratibimb",
     teamSize: "3",
     about:
       "Given below are some of the most rampant/outrageous social and cultural problems plaguing modern India. Participants must select any one topic from the given list and tell us how they would like to spread the message of change. The problems of the present hour that need to be addressed are : 1) Praising encounter- Is it justified? 2) Economic slowdown- are govt. policies to be blamed? 3) Privatisation of PSU/Railways- What is your stance? 4) Gay couple adoption rights equal to normal couples? 5) Removal of Job assurance from Govt Sector. 6) Is India ready to go 100% cashless? 7) Marriage laws in India are Anti-Men. What is your stance? 8) Is India the most dangerous country for women? 9) Are universities and students the soft target for political mobilization? 10) Suspension of internet services-failure of law-and-order machinery? The event will be held in two rounds.",
@@ -256,7 +256,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRAYAS",
-    eventName: "HOME AWAY FROM HOME",
+    eventName: "Home away from home",
     teamSize: "3",
     about:
       "Problems are nothing but wake-up calls for creativity – Gerhard Gschwandtner. It is rightly said that a creative mind generates the best creative solution. And therefore to test your ability of problem analysing around you and providing with the best possible solution for the problem we Prayas Team is organising a grand new event this Ojass'23. We all are well versed with the fact that we have many problems around us in the college. We all talk about the problem but no one talks about the solution. And therefore we Prayas Team is providing you with a golden opportunity to improve your critical thinking by analysing such roblems around you and suggesting proper and practical solutions to overcome that. So gear up your seat belt to have a ollercoaster ride in-side the event. The event will be held in two rounds.",
@@ -273,7 +273,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NEO DRISHTI",
-    eventName: "CODIYAPA",
+    eventName: "Codiyapa",
     teamSize: "1",
     about:
       "If you want to improve your analytical skills, there's no better way to do that than by solving problems. Whenever we talk about technology, a buzzword appears in our mind – and that is coding or programming. Now, coding/programming isn't just about solving different kinds of problems using different programming languages, but it's a large part of what you'll do as a developer. CODIYAPA is an immense event where you can sketch your solution on our platform. Enroll in our online programming contest and win attractive prizes.",
@@ -292,7 +292,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NEO DRISHTI",
-    eventName: "TAME THE PYTHON",
+    eventName: "Tame the Python",
     teamSize: "1",
     about:
       "Python is among the most preferred programming languages, and it is used widely today because of its potential. As it is easy to learn, many non-programmers, such as accountants and scientists, have embraced Python. So Tame the python is bringing you a chance to explore the burrow of python By using the extensive libraries and frameworks of Python language you will be expected to find some crawly bugs that swept in during the coding project experiment and we will be expecting a cage big enough to tame the Python of course. Multiple paths will confuse you, so choose your weapon smartly and delve deep into this Python quest.",
@@ -310,7 +310,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NEO DRISHTI",
-    eventName: "GAME OF TROVES",
+    eventName: "Game of Troves",
     teamSize: "1",
     about:
       "Get ready to flex your mental muscles and show off your expertise with our exciting Game of Troves quiz. This is not your average run-of treadmill test, we have crafted a unique set of questions that will play with your understanding. From ancient history to modern-day technology, we've got it all covered. And the stakes are high. It’s the right time to form the right balance between time and activity to make the most out of the break. The combining power of knowledge, humor and time will form an engaging force in the form of a random topics quiz consisting of MCQs, Fill in the blanks and much more. A game which will take you beyond Google in search of clues. So, sharpen your wits and get ready for a mind-blowing experience!",
@@ -328,7 +328,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NEO DRISHTI",
-    eventName: "CODE RELAY",
+    eventName: "Code Relay",
     teamSize: "2",
     about:
       "DIVIDE TASK, MULTIPLY SUCCESS. As the quote suggests, Team Neo Drishti presents its ultra-fun and challenging coding event Code-Relay, which is an event for team of two grinding hard to achieve success in their code showing the team work and team coordination.",
@@ -343,37 +343,38 @@ export default individualEventData = [
   },
   {
     mainEvent: "NEO DRISHTI",
-    eventName: "THE BLINDFOLDED CODER",
+    eventName: "The Blindfolded Coder",
     teamSize: "1",
     about:
       "Unlock your true coding and designing potential at The Blindfolded Coder. This blindfolded competition is designed to test your skills like never before. With limited information and the added challenge of designing without being able to see the final product, this event will push your abilities to new heights. Register now and take on the ultimate coding and designing challenge! Are you ready to take on the ultimate coding and designing challenge?",
-    rules: ["Round 01: “CODE DECODE”",
-    "1. There will be 10 problem of different difficulty levels from easy to hard.",
-    "2. This will be a 1-hour long contest hosted on Hacker Earth.",
-    "3. The test will have programming type questions where the participant is expected to enter the correct logic in any of the languages such as - C,C++,Java or Python.",
-    "4. Code for the given problem statement should be generated by yourself.",
-    "5. It will be an individual event and no negative marking will be there.",
-    "6. Participating team must bring their laptop and pens and they will be providing sheets for solving questions. In each team there should be only one laptop and candidates cannot change their laptop during contest.",
-    "7. Only C, C++, Java or Python languages that are available on Hacker Earth are allowed.",
-    "8. Each program will be tested based on our critical test data. However, output and input should be exactly as specified in the samples provided.",
-    "9. First round qualifiers will be announced on getting highest mark with least submission time.",
-    "10. Top performers will get an opportunity to battle their way out in the final round.",
-    "",
-    "Round 2: -“Template to Masterpiece: No Run Edition\"",
-    "",
-    "Join our HTML and CSS design challenge, where you will be given a website template and tasked with redesigning it using only HTML and CSS. The goal of the event is to test your design skills and your ability to create visually appealing, responsive websites. You will not be able to run your code, so you should focus on the design aspect.",
-    "",
-    "1. Participants must use only HTML and CSS to design the provided website template. No JavaScript or other programming languages are allowed.",
-    "2. Participants must submit their source code at the end of the event.",
-    "3. This will be a 2–3-hours long contest hosted on Hacker Earth.",
-    "4. Participants should not use any pre-built templates or frameworks; all the design and layout should be done by participants.",
-    "5. Participating codes should be well-organized, commented, and maintainable.",
-    "6. Copying or plagiarizing another participant's code will result in disqualification.",
-    "7. The event organizers or judges reserve the right to disqualify any participant who does not adhere to the rules or engages in any type of cheating or misconduct.",
-    "8. All designs must be responsive and should be tested on different screen sizes.",
-    "9. Participants should not be able to modify the basic structure of the template.",
-    "10. Participating team must bring their own laptop."
-],
+    rules: [
+      "Round 01: “CODE DECODE”",
+      "1. There will be 10 problem of different difficulty levels from easy to hard.",
+      "2. This will be a 1-hour long contest hosted on Hacker Earth.",
+      "3. The test will have programming type questions where the participant is expected to enter the correct logic in any of the languages such as - C,C++,Java or Python.",
+      "4. Code for the given problem statement should be generated by yourself.",
+      "5. It will be an individual event and no negative marking will be there.",
+      "6. Participating team must bring their laptop and pens and they will be providing sheets for solving questions. In each team there should be only one laptop and candidates cannot change their laptop during contest.",
+      "7. Only C, C++, Java or Python languages that are available on Hacker Earth are allowed.",
+      "8. Each program will be tested based on our critical test data. However, output and input should be exactly as specified in the samples provided.",
+      "9. First round qualifiers will be announced on getting highest mark with least submission time.",
+      "10. Top performers will get an opportunity to battle their way out in the final round.",
+      "",
+      'Round 2: -“Template to Masterpiece: No Run Edition"',
+      "",
+      "Join our HTML and CSS design challenge, where you will be given a website template and tasked with redesigning it using only HTML and CSS. The goal of the event is to test your design skills and your ability to create visually appealing, responsive websites. You will not be able to run your code, so you should focus on the design aspect.",
+      "",
+      "1. Participants must use only HTML and CSS to design the provided website template. No JavaScript or other programming languages are allowed.",
+      "2. Participants must submit their source code at the end of the event.",
+      "3. This will be a 2–3-hours long contest hosted on Hacker Earth.",
+      "4. Participants should not use any pre-built templates or frameworks; all the design and layout should be done by participants.",
+      "5. Participating codes should be well-organized, commented, and maintainable.",
+      "6. Copying or plagiarizing another participant's code will result in disqualification.",
+      "7. The event organizers or judges reserve the right to disqualify any participant who does not adhere to the rules or engages in any type of cheating or misconduct.",
+      "8. All designs must be responsive and should be tested on different screen sizes.",
+      "9. Participants should not be able to modify the basic structure of the template.",
+      "10. Participating team must bring their own laptop.",
+    ],
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Praduman"],
     eventHeadNumber: ["+919076983133"],
@@ -417,7 +418,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NCFF",
-    eventName: "LENS VIEW",
+    eventName: "Lens View",
     teamSize: "3",
     about: "Lens View is the official Photography event of NCFF.",
     rules: [
@@ -439,7 +440,7 @@ export default individualEventData = [
       "5. The decision of the organising team will be final and binding.",
       "6. Normal image retouching such as crop, rotation, exposure, contrast, etc. are allowed. Image manipulation is not allowed. ",
       "7. The themes for the finals round will be disclosed to the selected teams on 11/04/2023.",
-      "8. Late entries will not be accepted."
+      "8. Late entries will not be accepted.",
     ],
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Sambhav Singh", "Ayushi Baidya"],
@@ -495,7 +496,7 @@ export default individualEventData = [
       "Deadline for submission of entry for prelims is 8th April 23",
       "Based on the received Abstracts, Participants will be shortlisted.",
       "ROUND 2 (FINALS):",
-      "You will have to make an after-movie of Ojass 23 which will have to be shot in the fest itself.", 
+      "You will have to make an after-movie of Ojass 23 which will have to be shot in the fest itself.",
       "This is an on-spot event.",
       "You will have to cover the events throughout the three days. ",
       "You will be given three days more to edit and submit the video.",
@@ -513,7 +514,7 @@ export default individualEventData = [
       "2. A final video is to be submitted along with Ojass ID and personal details to the mail ID: phocus_nit@nitjsr.ac.in",
       "3. Any camera is allowed",
       "4. Decision of the organizing team is final and binding",
-      "5. Team Phocus and Ojass will have all the rights to upload the aftermovie and the reels on official handles."
+      "5. Team Phocus and Ojass will have all the rights to upload the aftermovie and the reels on official handles.",
     ],
     prize: [7000, 4000, 2500, 1000],
     eventHeadName: ["Abhishek Dubey"],
@@ -534,7 +535,7 @@ export default individualEventData = [
       "Deadline for submission of entry for prelims is 8th April 23 ",
       "Based on the received Abstracts, Participants will be shortlisted.",
       "ROUND 2 (FINALS):",
-      "You will have to make a reel of Ojass 23 which will have to be shot in the fest itself.", 
+      "You will have to make a reel of Ojass 23 which will have to be shot in the fest itself.",
       "This is an on-spot event.",
       "You will have to cover the events throughout the three days. ",
       "You will be given three days more to edit and submit the video.",
@@ -552,7 +553,7 @@ export default individualEventData = [
       "2. A final video is to be submitted along with Ojass ID and personal details to the mail ID: phocus_nit@nitjsr.ac.in",
       "3. Any camera is allowed",
       "4. Decision of the organizing team is final and binding",
-      "5. Team Phocus and Ojass will have all the rights to upload the aftermovie and the reels on official handles."
+      "5. Team Phocus and Ojass will have all the rights to upload the aftermovie and the reels on official handles.",
     ],
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Abhishek Dubey"],
@@ -593,8 +594,8 @@ export default individualEventData = [
     whatsappLink: "https://chat.whatsapp.com/H5SMVTIQpjxCJq2uDbVmVd",
   },
   {
-     mainEvent: "AAVARTAN",
-    eventName: "META-DATA",
+    mainEvent: "AAVARTAN",
+    eventName: "Meta Data",
     teamSize: "3",
     about:
       "It’s amazing how data drives the world. Data-driven decision-making plays an important role in any business and any sector. A lot of data is even used in the metallurgical sector. Data is the new oil We promise that this is going to be much more easier and fascinating than all the names of these concepts mentioned in the rules. Round I – General Quantitive Aptitude Round II – Hackathon",
@@ -649,7 +650,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "AAVARTAN",
-    eventName: "KNOCK-OUT",
+    eventName: "Knock-Out",
     teamSize: "3",
     about:
       "An event of Aavartan provides a platform for students to check their capability in quick decision-making and pressure handling. Since this year’s events are open to all branches, this event comprises events approachable to all students.Knock-out will comprise 2 rounds.First round will be a quantitative and qualitative aptitude test round.Shortlisted students will be divided into groups of 3 candidates each for the second round where questions will be open to all groups which will be a knock-out round. ",
@@ -808,7 +809,7 @@ export default individualEventData = [
 
   {
     mainEvent: "ARTHASHASTRA",
-    eventName: "TODDLER TO TYCOON",
+    eventName: "Toddlers To tycoon",
     teamSize: "1",
     about:
       "Business is a lot like a game of tennis because those who serve well usually end up winning. Ojass’23 brings to your table a perfect business competition that will give you the necessary exposure to the nuts and bolts of being a corporate leader. An event with a perfect blend of activities to showcase your on-spot creativity and grey matter is what TTT is all about. DETAIL: Round 1A quiz event involving questions from both business and technology. This round will be a qualifying round with individual participants. Quiz will be conducted in an online platform but in offline mode. Round 2Buzzword- This round is a lot like an extempore, each participant will be given few business terms and a time duration of 3 mins, to think about it and then speak on the topic including those business terms given to them. To ace, these rounds students need to have a sound knowledge of basic business terms. This is an elimination round. Round 3:Qualifying participants will be given a topic on the spot and they have to present their findings on this topic by means of a ppt, which they have to make on spot in a time duration of 1hr which will be followed by a ppt presentation and cross questioning session. Each participant will be allotted a time duration of 10 mins to present their ppt.",
@@ -824,9 +825,10 @@ export default individualEventData = [
   },
   {
     mainEvent: "ARTHASHASTRA",
-    eventName: "INVESTOR AND PITCHERS",
+    eventName: "Investor and pitcher",
     teamSize: "1",
-    about: "Time is money, they say! What if you had the least time to get the highest money for your business? With this thought, Ojass brings you the Investor & Pitchers to foster innovation and creativity in budding entrepreneurs. In this competition, participants will pitch an idea to a potential investor within a limited time.",
+    about:
+      "Time is money, they say! What if you had the least time to get the highest money for your business? With this thought, Ojass brings you the Investor & Pitchers to foster innovation and creativity in budding entrepreneurs. In this competition, participants will pitch an idea to a potential investor within a limited time.",
     rules: [
       "Round 1:",
       "For pitchers:",
@@ -898,7 +900,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "CODESENSE",
+    eventName: "Codesense",
     teamSize: "2",
     about:
       "Codesense is a mind sport where only those will triumph who can sense the code. This event is looking for the brilliant minds who can stand up to the challenge of hardcore logic, puzzles and programming. Be ready to tickle your grey matter and show your calibre in the domain of coding.",
@@ -915,7 +917,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "ELECTRONICS FRENZY",
+    eventName: "Electronics Frenzy",
     teamSize: "2",
     about:
       "Over the years, Electronics has revolutionised our world. Take a moment to look around you. How many screens do you see? Did you include the one you are reading on? We are surrounded by various electronic gadgets which makes our day-to-day life easier. Electronics Frenzy breaks down these complex devices to their core electronic component and concept. Buckle up everyone to clout your brain and survive these mind- boggling rounds of analog and digital electronic challenges",
@@ -935,13 +937,13 @@ export default individualEventData = [
       "5. Any form of unfair means will lead to disqualification.",
     ],
     prize: [4000, 2500, 1500, 1000],
-    eventHeadName: ["Pratik Sonthaliya","Ayush"],
-    eventHeadNumber: ["7488362319","7903994790"],
+    eventHeadName: ["Pratik Sonthaliya", "Ayush"],
+    eventHeadNumber: ["7488362319", "7903994790"],
     whatsappLink: "https://chat.whatsapp.com/DaaTtfgiIsOLfNRcwGrn8z",
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "TECH VAULT",
+    eventName: "Tech Vault",
     teamSize: "2",
     about:
       "Microprocessors are a feat of generations of research and development. They have shrunk large computers the size of a room to the palm of our hand. TechVault brings you the opportunity to revel in the triumph of microprocessors. This micro-processing miracle depends only on your innovation and coding ability. It is time to rule the heart of technology now!",
@@ -952,16 +954,16 @@ export default individualEventData = [
       "The time duration of this round is 60 minutes.",
       "Round 2:",
       "2nd round is programming in assembly language and simulation on 8085 simulator software where you will have 4 questions carrying 15 marks each with a total time duration of 90 minutes.",
-      "There is no negative marking in this round."
+      "There is no negative marking in this round.",
     ],
     prize: [4000, 2500, 1500, 1000],
-    eventHeadName: ["Rohit Kumar","Karan"],
+    eventHeadName: ["Rohit Kumar", "Karan"],
     eventHeadNumber: ["6205952898", "6205137981"],
     whatsappLink: "https://chat.whatsapp.com/F9SvwCrZ0omF3HM2yDCGpk",
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "TUKVILLA",
+    eventName: "TukVilla",
     teamSize: "3",
     about:
       "Arduino is an open hardware development board that can be used by tinkerers, hobbyists and makers to design and build devices that interact with the real world. It allows students, beginners, teachers and engineers to design academic and real time projects to solve modern problems. TukVilla brings the opportunity to all of you to explore one of the most important components of the electronic world.",
@@ -979,13 +981,13 @@ export default individualEventData = [
       "A team may consist of 2-3 members only.",
     ],
     prize: [4000, 2500, 1500, 1000],
-    eventHeadName: ["Arpit","Rohith Gundu"],
-    eventHeadNumber: ["7485848657","9951483789"],
+    eventHeadName: ["Arpit", "Rohith Gundu"],
+    eventHeadNumber: ["7485848657", "9951483789"],
     whatsappLink: "https://chat.whatsapp.com/IJoeOzRpGxH3ZDdxsll2re",
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "TECH TODAY",
+    eventName: "Tech Today",
     teamSize: "2",
     about:
       "The Internet of Things is connecting all kinds of intelligent devices, sensors, mobile devices, vehicles and various other devices together and with cloud computing to make any system smart and more efficient. 5G is a new network which is not only enhancing mobile broadband services but also trying to connect new industries for improved performance and efficiency. Tech Today brings you the opportunity to explore these technologies emerging today and present your ideas and understanding of how the technology would save the future. This event is nothing like what you have experienced before. Be prepared!",
@@ -1018,7 +1020,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "TREASURE HUNT",
+    eventName: "Treasure Hunt",
     teamSize: "4",
     about:
       "Let the game be ventured! Treasures are always alluring and while all treasures are not silver or gold, they are all difficult to find. Inviting all brilliant minds to discover their inner Sherlock’s and join in a very fun and exciting event.",
@@ -1039,13 +1041,13 @@ export default individualEventData = [
       "Any unfair means will lead to disqualification.",
     ],
     prize: [6000, 3500, 2500, 1500],
-    eventHeadName: ["Omkar Pandey","Naman"],
-    eventHeadNumber: ["9546762776","6205821545"],
+    eventHeadName: ["Omkar Pandey", "Naman"],
+    eventHeadNumber: ["9546762776", "6205821545"],
     whatsappLink: "https://chat.whatsapp.com/HpfPXSIjI8F8iWEkXzLKpF",
   },
   {
     mainEvent: "SILICON VALLEY",
-    eventName: "EMBETRIX",
+    eventName: "Embetrix",
     teamSize: "3",
     about:
       "Embetrix brings you the opportunity to build something which the world has never seen before. So, ignite your grey matter, brush up your core concepts and proclaim the engineer inside you.",
@@ -1066,8 +1068,8 @@ export default individualEventData = [
       "The decision of judge/coordinators shall be final and binding.",
     ],
     prize: [4000, 3000, 2000, 1000],
-    eventHeadName: ["Vikash Kumar","Mohit Ranjan"],
-    eventHeadNumber: ["7061492419","6203188759"],
+    eventHeadName: ["Vikash Kumar", "Mohit Ranjan"],
+    eventHeadNumber: ["7061492419", "6203188759"],
     whatsappLink: "https://chat.whatsapp.com/EhTmAdDQUOrJSxZNiMVC3k",
   },
   {
@@ -1090,7 +1092,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "VISHWA CODE GENESIS",
-    eventName: "Comp Geeks",
+    eventName: "Comp geeks",
     teamSize: "2",
     about:
       "You cannot invent an algorithm which is as good at recommending books as a bookseller. Ojass brings to you an enticing event to test your mettle in the field of data structures, algorithms, Maths, DBMS, OOPS, C basics and various other fundamental fields of Computer Science. This event is a platform to brush your fundamentals of Computer Science where you can also expect a few questions from trending technologies and some brain-storming puzzles.",
@@ -1108,7 +1110,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "VISHWA CODE GENESIS",
-    eventName: "CODE-O-SOCCER",
+    eventName: "Code-o-Soccer",
     teamSize: "2",
     about:
       "Vishwa-Code Genesis brings for you an event called Code-O-Soccer, which asks you to give brains to the computer so that it can think the way you think. So be prepared to crack your logical and coding skills and whack your opponents with your own artificial intelligence system.",
@@ -1123,7 +1125,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "VISHWA CODE GENESIS",
-    eventName: "VISHWA QUIZ",
+    eventName: "Vishwa Quiz",
     teamSize: "2",
     about:
       "Isn't life a collection of weird quizzes with no answers to half the questions? Vishwa Quiz is a team QUIZ contest, with each team consisting of at most two members, both from the same institute. No participant can be part of more than one team.",
@@ -1138,7 +1140,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "VISHWA CODE GENESIS",
-    eventName: "CODE MANIA",
+    eventName: "Code Mania",
     teamSize: "3",
     about:
       "If you love competitive coding, or problem-solving in general, then this is THE event for you! Code Mania is the flagship competitive programming event of our prestigious institute. This is a team event where the size of a team can vary from 1 member to 3 members. So this event will not only help you in honing your problem-solving skills, but also contribute to your capacity to work with a team under pressure!",
@@ -1153,7 +1155,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "VISHWA CODE GENESIS",
-    eventName: "HACK-DE-SCIENCE",
+    eventName: "Hack-de-Science",
     teamSize: "3",
     about:
       "Hack-De-Science is the biggest event of Vishwa-Code Genesis. This event is designed to take the benefit of hackathons and provide you the freedom to use the development tool of your choice to bring your ideas to life. It is a team based event where solo participation is not allowed. Teams can either have 2 or 3 members.",
@@ -1170,7 +1172,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "VISHWA CODE GENESIS",
-    eventName: "SUDO CODE",
+    eventName: "Sudo code",
     teamSize: "1",
     about:
       "All the best people in life seem to like LINUX. Are you a Linux user who takes pride in your knowledge of the Linux operating system? Do you want to test your command over Linux while competing with other brilliant Linux users? If your answer to these questions is a resounding yes, then this event is for you!",
@@ -1188,44 +1190,46 @@ export default individualEventData = [
     mainEvent: "CHECKERED FLAG",
     eventName: "AUTO QUIZ",
     teamSize: "1",
-    about: "The quizzing section of Checkered Flag is called the Auto-Quiz event, which is tailored towards automobile enthusiasts. This event challenges participants' knowledge with multiple-choice, true-false, and picture quiz formats covering various categories related to cars such as brands, models, car culture, and auto racing. By taking the Auto Quiz, participants can test their understanding of automotive trivia in a fun and engaging way. So, if you consider yourself a big automotive enthusiast, take the Auto Quiz to find out how much you really know.",
+    about:
+      "The quizzing section of Checkered Flag is called the Auto-Quiz event, which is tailored towards automobile enthusiasts. This event challenges participants' knowledge with multiple-choice, true-false, and picture quiz formats covering various categories related to cars such as brands, models, car culture, and auto racing. By taking the Auto Quiz, participants can test their understanding of automotive trivia in a fun and engaging way. So, if you consider yourself a big automotive enthusiast, take the Auto Quiz to find out how much you really know.",
     rules: [
-            "This event will consist of a preliminary written round in which certain number of MCQ's will be given to the participants.",
-            "Based on their performance in the written round, top 5 teams will be promoted to the Quiz round.",
-            "The Quiz round will consist of various sub-rounds like rapid fire, Buzzer round, Infinite Bounce etc.",
-            "The exact format and the marking scheme of the Quiz round will be unveiled at the event.",
-            "The questions will be related to happenings in the Automobile world.",
-            "The questions will be of generic nature and will not be strictly blended towards technical aspects."
-           ],
+      "This event will consist of a preliminary written round in which certain number of MCQ's will be given to the participants.",
+      "Based on their performance in the written round, top 5 teams will be promoted to the Quiz round.",
+      "The Quiz round will consist of various sub-rounds like rapid fire, Buzzer round, Infinite Bounce etc.",
+      "The exact format and the marking scheme of the Quiz round will be unveiled at the event.",
+      "The questions will be related to happenings in the Automobile world.",
+      "The questions will be of generic nature and will not be strictly blended towards technical aspects.",
+    ],
     prize: [3000, 2000, 1000, 1000],
-    eventHeadName: ["Ritesh Deshmane","Sanoj Kumar"],
-    eventHeadNumber: ["+919119489520","+919660688377"],
+    eventHeadName: ["Ritesh Deshmane", "Sanoj Kumar"],
+    eventHeadNumber: ["+919119489520", "+919660688377"],
     whatsappLink: "https://chat.whatsapp.com/IQVbYY6nbm67Ysu1XJ5V86",
   },
   {
     mainEvent: "CHECKERED FLAG",
     eventName: "IDEA PRESENTATION",
     teamSize: "2",
-    about: "India is a developing country that is making significant strides in technological advancement and industrialization across all sectors of urban and rural development. However, the growth rate of the automobile sector is comparatively slow due to its reliance on the Internal Combustion (I.C.) Engine, which has been in use since time immemorial. While some consider it the most efficient source of transportation, it poses several problems, especially pollution. India needs to undergo a technological reform in the automobile industry and shift towards electric vehicles to mitigate the impacts of global warming. To address this, the Indian Government launched the 'National Electric Mobility Mission Plan (NEMMP) 2020' in 2013 to tackle national energy security, automobile pollution, and production growth. This initiative has attracted the attention of various ecommerce companies such as RECC and Ola. Although challenges may arise in terms of infrastructure and funding, we should take small steps towards our goal of making the world a better place. As engineers, we must recognize the importance of taking action to promote sustainable transportation, and events such as the NEMMP consist of three rounds aimed at achieving this goal.",
+    about:
+      "India is a developing country that is making significant strides in technological advancement and industrialization across all sectors of urban and rural development. However, the growth rate of the automobile sector is comparatively slow due to its reliance on the Internal Combustion (I.C.) Engine, which has been in use since time immemorial. While some consider it the most efficient source of transportation, it poses several problems, especially pollution. India needs to undergo a technological reform in the automobile industry and shift towards electric vehicles to mitigate the impacts of global warming. To address this, the Indian Government launched the 'National Electric Mobility Mission Plan (NEMMP) 2020' in 2013 to tackle national energy security, automobile pollution, and production growth. This initiative has attracted the attention of various ecommerce companies such as RECC and Ola. Although challenges may arise in terms of infrastructure and funding, we should take small steps towards our goal of making the world a better place. As engineers, we must recognize the importance of taking action to promote sustainable transportation, and events such as the NEMMP consist of three rounds aimed at achieving this goal.",
     rules: [
-           "Round 1:",
-           "Will be on day 1 of OJASS",
-           "It will be written round (questions will be from both electrical and mechanical section).",
-           "Team must have 2 members.",
-           "It will be an elimination round 4. Top 15 teams will go to round 2",
-           "Round 2:",
-           "Will be on day 2 of OJASS",
-           "Round 2 consists of Case group discussion on a topic affecting Indian economy.",
-           "3 groups of 5 teams will be made",
-           "Points will be given to the teams based on their performance",
-           "Top 8 teams will move further to round 3",
-           "Round 3:",
-           "Will be on day 3 of OJASS",
-           "All the 8 teams have to prepare a presentation on the topic ELECTRIC VEHICLE in INDIA",
-           "Time limit of presentation is 10-15 minutes and maximum no of slides 15.",
-           "Presentation will be followed with questions by the judges.",
-           "Note:",
-           "More points will be given to those teams who show the transition from combustion engine vehicles to electric vehicles.",
+      "Round 1:",
+      "Will be on day 1 of OJASS",
+      "It will be written round (questions will be from both electrical and mechanical section).",
+      "Team must have 2 members.",
+      "It will be an elimination round 4. Top 15 teams will go to round 2",
+      "Round 2:",
+      "Will be on day 2 of OJASS",
+      "Round 2 consists of Case group discussion on a topic affecting Indian economy.",
+      "3 groups of 5 teams will be made",
+      "Points will be given to the teams based on their performance",
+      "Top 8 teams will move further to round 3",
+      "Round 3:",
+      "Will be on day 3 of OJASS",
+      "All the 8 teams have to prepare a presentation on the topic ELECTRIC VEHICLE in INDIA",
+      "Time limit of presentation is 10-15 minutes and maximum no of slides 15.",
+      "Presentation will be followed with questions by the judges.",
+      "Note:",
+      "More points will be given to those teams who show the transition from combustion engine vehicles to electric vehicles.",
     ],
     prize: [3000, 2000, 1000, 1000],
     eventHeadName: ["Sidharth Srivastav", "Sriram Kumar"],
@@ -1236,16 +1240,23 @@ export default individualEventData = [
     mainEvent: "CHECKERED FLAG",
     eventName: "DISASSEMBLE",
     teamSize: "3",
-    about: "Since the mid-1700s, manufacturers have realized that using multiple applications to build a single part can significantly reduce costs and improve repair times. This method of using interchangeable, mass-produced parts has been the foundation of mechanical assembly, which involves putting together components on an assembly line to create a functional product or part. Although the industry today demands high-performance components, the basic principles of mechanical assembly have remained unchanged. To attach two or more parts together, a variety of fastening methods are used, often involving the use of fasteners added during the assembly process. In some cases, however, shaping one of the components being assembled can eliminate the need for separate fasteners",
-    rules: ["Round 1: (Prelims)", "Based on the manufacturing concepts – Quiz", "Round 2: (Finals)", "Mechanical Components will be given to the students.", "They will be asked to assemble and disassemble the same"],
+    about:
+      "Since the mid-1700s, manufacturers have realized that using multiple applications to build a single part can significantly reduce costs and improve repair times. This method of using interchangeable, mass-produced parts has been the foundation of mechanical assembly, which involves putting together components on an assembly line to create a functional product or part. Although the industry today demands high-performance components, the basic principles of mechanical assembly have remained unchanged. To attach two or more parts together, a variety of fastening methods are used, often involving the use of fasteners added during the assembly process. In some cases, however, shaping one of the components being assembled can eliminate the need for separate fasteners",
+    rules: [
+      "Round 1: (Prelims)",
+      "Based on the manufacturing concepts – Quiz",
+      "Round 2: (Finals)",
+      "Mechanical Components will be given to the students.",
+      "They will be asked to assemble and disassemble the same",
+    ],
     prize: [4000, 2500, 1500, 1000],
     eventHeadName: ["Abhishek Kumar", "Arun Yadav"],
-    eventHeadNumber: ["+917004702238","+917267037731"],
+    eventHeadNumber: ["+917004702238", "+917267037731"],
     whatsappLink: "https://chat.whatsapp.com/HN1ypAr1tWc8xt6MTEWehy",
   },
   {
     mainEvent: "ROBOTICS RENAISSANCE",
-    eventName: "CRYPTIC CIRCUIT",
+    eventName: "Cryptic Circuit",
     teamSize: "4",
     about:
       "The objective of the competition is to design and build an autonomous robot that can navigate through a maze or can follow a certain path and reach the finish line as quickly and efficiently as possible. The robot must also be able to detect and avoid obstacles along the way. The competition provides an opportunity for students to demonstrate their technical skills in programming, electronic engineering, and mechanical design. In addition to the technical aspects, the competition also aims to develop soft skills such as time management, project planning, and teamwork. The participants will have to work together to design, build, and test their robots, which will help them develop valuable skills that they can use in their future careers. ",
@@ -1305,7 +1316,7 @@ export default individualEventData = [
       "The teams can use any kind of sensor for line following.",
       "Bot must have an onboard power supply, i.e., only power supplies like cells, Batteries, etc., are allowed. No power source will be provided at the Arena. Teams may keep extra batteries for replacement.",
       "The bot must not have any manual control mode via Wi-Fi or Bluetooth or any other wireless communication.",
-      "FPGA is not allowed."
+      "FPGA is not allowed.",
     ],
     prize: [15000, 12000, 8000, 5000],
     eventHeadName: ["Harshit Kumar"],
@@ -1374,7 +1385,7 @@ export default individualEventData = [
       "NOTE:",
       "If in case any discrepancy arises then the decision of the coordinators would be final.",
       "If any bot intentionally tries to harm the opponent’s bot, then that team will get disqualified.",
-      "The number of sub-rounds will be disclosed at the time of the event."
+      "The number of sub-rounds will be disclosed at the time of the event.",
     ],
     prize: [10000, 8000, 6000, 4000],
     eventHeadName: ["Ronit Ranjan"],
@@ -1383,7 +1394,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "CASE TRIVIA",
-    eventName: "CAS-ASSEMBLE",
+    eventName: "Cas-assemble",
     teamSize: "3",
     about:
       "The event will comprise of a case study, but will first have a few screening rounds  only to judge the business and logical acumen of the participants, it is a team event with a  team captain",
@@ -1414,7 +1425,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "CASE TRIVIA",
-    eventName: "DA-TANGLED",
+    eventName: "Da-tangled",
     teamSize: "3",
     about:
       " Da-tangled brings to you the Machine Learning Challenge, a contest that brings  the participants in touch with one of the fastest-growing industries in today's market. The aim of this contest is to expose you to the fields of data science, machine learning, and  artificial intelligence. The participants will experiment with different techniques and  compete against each other to produce the best models on the given problem statements  and datasets.",
@@ -1428,8 +1439,8 @@ export default individualEventData = [
     whatsappLink: "https://chat.whatsapp.com/G7goMoD8qEkBHMxxhVltVq",
   },
   {
-     mainEvent: "PRODUS",
-    eventName: "M & I Quiz",
+    mainEvent: "PRODUS",
+    eventName: "M&I Quiz",
     teamSize: "1",
     about:
       "Bring out the quizzer inside you with a bang! This year, it gets bigger and better than the previous editions due to lots of college quizzers as well as non-quizzers testing their knowledge of industrial terminologies, trivia, know-how, and much more on offer. There will be two rounds: Prelims and Finals.",
@@ -1448,27 +1459,27 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRODUS",
-    eventName: "Utpreksh",
+    eventName: "UTPREKSH",
     teamSize: "1",
     about:
       "Designing is one of the most important aspects of Production and Industrial Engineering. This field demands for the best design usage to optimize quality, workspace and motion of manpower, materials, and money in the organization. This event provides an opportunity for the designers amongst to showcase the optimal design solutions for the automotive parts in question using CATIA V5 / Solidworks software. This software is used in design in various fields such as automobiles, manufacturing etc. making it a necessary skill to possess in industrial sectors.",
     rules: [
-    "Round 1:",
-     "Participation must be in solo mode.",
-     "There will be 3 rounds in total.",
-     "First round will be uploading of 2-D sketches on Google Drive.",
-     "The sketches must be fully constrained, a negligence of which shall lead to disqualification.",
-    "Round 2:",
-     "Participants must design a 3D model based on the drafting provided.",
-     "Participants must install the latest version of CATIA V5 / Solidworks beforehand.",
-     "A total of 6 Players will make it to the finals.",
-    "Round 3:",
-     "Participate have to perform drafting of the model provide by us.",
-     "There will be three winners for this event.",
-     "All participants must have their own laptops and chargers.",
-    "Finalists and audience will also get exciting rewards.",
-    "The jury will be looking for an optimized solution for the given design problem.",
-    "The decision of the jury shall remain final, unquestionable, and unamendable.",
+      "Round 1:",
+      "Participation must be in solo mode.",
+      "There will be 3 rounds in total.",
+      "First round will be uploading of 2-D sketches on Google Drive.",
+      "The sketches must be fully constrained, a negligence of which shall lead to disqualification.",
+      "Round 2:",
+      "Participants must design a 3D model based on the drafting provided.",
+      "Participants must install the latest version of CATIA V5 / Solidworks beforehand.",
+      "A total of 6 Players will make it to the finals.",
+      "Round 3:",
+      "Participate have to perform drafting of the model provide by us.",
+      "There will be three winners for this event.",
+      "All participants must have their own laptops and chargers.",
+      "Finalists and audience will also get exciting rewards.",
+      "The jury will be looking for an optimized solution for the given design problem.",
+      "The decision of the jury shall remain final, unquestionable, and unamendable.",
     ],
     prize: [3500, 2000, 1500, 1000],
     eventHeadName: ["Arnab Nandi"],
@@ -1477,7 +1488,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRODUS",
-    eventName: "Cross-Docked",
+    eventName: "CROSS-DOCKED",
     teamSize: "2",
     about:
       "This event is a supply-chain based case study competition for the students. A large chunk of students is interested in building a career in the fields of logistics, supply chain, operations, and consultancy sectors. This event presents an opportunity to solve a case study based on the same under performance pressure to give a glimpse of how actual competitions look like in the present scenario. The participants need to identify the type of case and crack it from its details within the given 24 hours fixed time.",
@@ -1508,9 +1519,9 @@ export default individualEventData = [
       "The solution file must be submitted within the allotted time frame.",
       "The decision of the jury shall remain final, unquestionable, and unamendable.",
       "All first-year teams will be considered for special privileges.",
-     "ROUND 1:",
-       "The dataset will be provided in the form of xlsx & the solution is to be submitted using machine learning tools with in the given time.",
-     "ROUND 2:",
+      "ROUND 1:",
+      "The dataset will be provided in the form of xlsx & the solution is to be submitted using machine learning tools with in the given time.",
+      "ROUND 2:",
       "This round will be a ppt presentation round of that obtained solution in front of the jury.",
     ],
     prize: [4000, 2500, 1500, 1000],
@@ -1520,23 +1531,23 @@ export default individualEventData = [
   },
   {
     mainEvent: "PRODUS",
-    eventName: "Industrial Tycoon-Reboot",
+    eventName: "Industrial tycoon-reboot",
     teamSize: "3",
     about:
       "This event has 2 rounds to ignite and cherish the budding entrepreneurs amongst us. Everybody has dreamt creating value for the society by producing something or providing service to people, alongside generating employment for various people. To nurture the same spirit, we are back with our flagship event Industrial Tycoon after a long halt.The first round will be based on abstract submission in presentation format for the problem for which the industry is in need of a solution.Top 9 teams will proceed to the next round.The second round will be an opportunity to showcase a detailed presentation as a business report used to pitch this idea in front of a team of judges.",
     rules: [
-    "ROUND 1:",
-     "1st round will be elimination round.",
-     "Participate in teams of 2-3 members.",
-     "A solution must be prepared for the problems related to development and operations of National Master Plan for Multi-Modal Connectivity, i.e., PM GatiShakti plan.",
-     "The solutions must be submitted in PPT format.",
-     "No restrictions in slide numbers.",
-     "Separate marks shall be allotted for best problem identification as well as for appropriate business solutions to resolve them.",
-     "The language in use must have business terms which shall add extra points for the selection.",
-     "Use of interactive dashboards, excel sheets and verified data will add spice and points, but the data and calculations must be correct for the judges to check.",
-     "All first-year teams will be considered for special privileges.",
-     "Teams will be shortlisted on the basis of their abstracts and will proceed to 2nd round.",
-    "ROUND 2:",
+      "ROUND 1:",
+      "1st round will be elimination round.",
+      "Participate in teams of 2-3 members.",
+      "A solution must be prepared for the problems related to development and operations of National Master Plan for Multi-Modal Connectivity, i.e., PM GatiShakti plan.",
+      "The solutions must be submitted in PPT format.",
+      "No restrictions in slide numbers.",
+      "Separate marks shall be allotted for best problem identification as well as for appropriate business solutions to resolve them.",
+      "The language in use must have business terms which shall add extra points for the selection.",
+      "Use of interactive dashboards, excel sheets and verified data will add spice and points, but the data and calculations must be correct for the judges to check.",
+      "All first-year teams will be considered for special privileges.",
+      "Teams will be shortlisted on the basis of their abstracts and will proceed to 2nd round.",
+      "ROUND 2:",
       "Top 9 teams will make-up to this round.",
       "This is an evaluation stage where questions will be asked on the basis of their abstracts.",
       "The pitch must be presented in front of a jury.",
@@ -1553,7 +1564,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "NO GROUND ZONE",
-    eventName: "TOUCH DOWN THE PLANE",
+    eventName: "Touch Down The Plane",
     teamSize: "4",
     about:
       "Touch down the plane is an aero-modelling and aero-designing event to give the platform to check basic understanding of flight and its mechanisms. In this, the participants need to design and fabricate an RC plane based on the given problem statement. Originality of idea and design should be maintained. Mission requirements include takeoff, performing maneuvers, and a safe landing. All the necessary equipment and spare parts are to be taken care of by the participants only.",
@@ -1605,7 +1616,7 @@ export default individualEventData = [
       "Bring your college or student ID card at the time of the competition.",
       "Any of the above-mentioned rules would be violated, and teams would not be allowed to participate in the event.",
       "The deadlines should be strictly followed.",
-      "The decision of the judges is final."
+      "The decision of the judges is final.",
     ],
     prize: [16000, 12000, 9000, 500, 500],
     eventHeadName: ["Ankit Kumar Tiwari", "Amit Kumar Poddar"],
@@ -1655,9 +1666,9 @@ export default individualEventData = [
       "The questions in both the rounds will be related to Core subjects of mechanical along with happenings in the Mechanical and Scientific world.",
       "Teams must bring their own pens in both the rounds.",
       "The timing of each round will be revealed in due time.",
-      "In case of discrepancies, the decision of event heads will be final and binding to all."
+      "In case of discrepancies, the decision of event heads will be final and binding to all.",
     ],
-    prize: [3000,2000,1000,500],
+    prize: [3000, 2000, 1000, 500],
     eventHeadName: [
       "Santosh Kumar Paul",
       "Dipu Kumar Srivastava",
@@ -1669,7 +1680,7 @@ export default individualEventData = [
   },
   {
     mainEvent: "RISE OF MACHINES",
-    eventName: "IANSYST",
+    eventName: "Iansyst",
     teamSize: "2",
     about:
       "Ansys is a software that enables the analysis of different types of physical components, including structures, thermal, electromagnetic, and fluids. It is typically used alongside other 3-D software or the built-in Design Modeler. The software is now a crucial aspect of many industries as it accurately predicts real-time dynamic, strength, and life of different physical components. The event is an opportunity for Mechanical and Production Engineering students to gain knowledge and practical experience in design and analysis using ANSYS. The date and venue of the event will be announced soon. In Round 1, students will take a 60-minute test covering basic mechanical engineering, aptitude, and ANSYS-related questions. Students can participate individually or in a team of up to two members. In Round 2, students will be provided with a problem statement that they have to design and simulate using ANSYS.",
@@ -1682,14 +1693,14 @@ export default individualEventData = [
       "The winner of the event will be determined based on the performance in Round 2.",
       "Maximum 2 people allowed per team.",
     ],
-    prize: [4000,3000,2000,1000],
+    prize: [4000, 3000, 2000, 1000],
     eventHeadName: ["SK PAUL", "SHIVAM KUMAR", "SHEKHAR SUMAN"],
     eventHeadNumber: ["6200678249", "7870417743", "9818036539"],
     whatsappLink: "https://chat.whatsapp.com/CswVVzyZQ1Q59gErbQK2Fc",
   },
   {
     mainEvent: "RISE OF MACHINES",
-    eventName: "BOX CIPHER",
+    eventName: "Box Cipher",
     teamSize: "2",
     about:
       "Every industrial applications are based on the engineering laws, theorems & concepts. To implement the concepts practically, one should understand the connection of various theories & principles to get the desired output. BOX-CIPHER brings you the opportunity to check it out how much you can remember engineering concepts & principles and how fast you can recognize things and how quick can you make responses to understand its practical utility.",
@@ -1706,14 +1717,14 @@ export default individualEventData = [
       "2. The timing of each round will be revealed before that particular round.",
       "3. In case of discrepancy, the decision of the Event Heads will be final and binding to all.",
     ],
-    prize: [3000,2000,1000,500],
+    prize: [3000, 2000, 1000, 500],
     eventHeadName: ["Santosh Kumar Paul", "Priyanshu Singh", "Utkarsh Raj"],
     eventHeadNumber: ["6200678249", "7858067941", "8936804844"],
     whatsappLink: "https://chat.whatsapp.com/Hgus0PNNfRL09wvz4Vy5Xc",
   },
   {
     mainEvent: "RISE OF MACHINES",
-    eventName: "MATHMAGICIANS",
+    eventName: "MathMagicians",
     teamSize: "2",
     about:
       "Are you a fan of numbers, patterns, and logical reasoning? Then MathMagician is the event for you! Join us for a fun-filled day of exploring the fascinating world of mathematics, with engaging activities and challenges that will test your problem-solving skills and inspire your imagination. Moreover, you'll have the opportunity to connect with like-minded individuals who share your passion for math and learn from their diverse perspectives and experiences. So don't miss out on this exciting and rewarding experience - mark your calendar and come join us for the event.",
@@ -1724,9 +1735,9 @@ export default individualEventData = [
       "Teams must bring their own pens in both the rounds.",
       "Each team must comprise 2 members only. (Individual participation not allowed)",
       "The timing of each round will be revealed in due time.",
-      "In case of discrepancies, the decision of event heads will be final and binding to all."
+      "In case of discrepancies, the decision of event heads will be final and binding to all.",
     ],
-    prize: [3000,2000,1000,500],
+    prize: [3000, 2000, 1000, 500],
     eventHeadName: [
       "Santosh Kumar Paul",
       "Dipu Kumar Srivastava",
@@ -1750,14 +1761,14 @@ export default individualEventData = [
       "Round 1: A MCQ test involving related physical concepts and basic Mechanical engineering.",
       "Round 2: Model-making followed by field launching",
     ],
-    prize: [4000,3000,2000,1000],
+    prize: [4000, 3000, 2000, 1000],
     eventHeadName: ["SK PAUL", "Shekhar Suman", "Rajat Raj"],
     eventHeadNumber: ["6200678249", "9818036539", "7979837260"],
     whatsappLink: "https://chat.whatsapp.com/HFFYWnAmtDbHYtNIz3PwmB",
   },
   {
     mainEvent: "ARMAGEDDON",
-    eventName: "Ludo King",
+    eventName: "ludo king",
     teamSize: "1",
     about:
       "Attention, gamers everywhere! One of the most popular video games from our youth, LUDO, will be included in OJASS's return to an exciting event. The OJASS Ludo event will be an exciting chance for all competitors to make every move count because they never know when the tide will change in a competitive virtual environment in their favor. The competition promises to be an exhilarating experience for all participants, with a combination of strategy and chance needed to win. So, what are you up to? Here's your chance to make your erratic friend Luck work in your favor. Prepare yourself for the ultimate gaming experience for all Ludo fans: the Ludo event at OJASS!",
@@ -1827,9 +1838,10 @@ export default individualEventData = [
 
   {
     mainEvent: "ARMAGEDDON",
-    eventName: "CHESS",
+    eventName: "chess",
     teamSize: "1",
-    about: "Chess is a board game for two players, called White and Black, each controlling an army of chess pieces in their color, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to distinguish it from related games, such as xiangqi (Chinese chess) and shogi (Japanese chess).Today, chess is one of the world's most popular games, played by millions of people worldwide.",
+    about:
+      "Chess is a board game for two players, called White and Black, each controlling an army of chess pieces in their color, with the objective to checkmate the opponent's king. It is sometimes called international chess or Western chess to distinguish it from related games, such as xiangqi (Chinese chess) and shogi (Japanese chess).Today, chess is one of the world's most popular games, played by millions of people worldwide.",
     rules: [
       "Duration: 60 min",
       "Format: 5+0 (5 min with 0-sec increments) | Standard | Lichess Arena",
@@ -1846,7 +1858,7 @@ export default individualEventData = [
       "Allegations of suspected players must be reported to the organizers personally (please do not report allegations in the chat box). The organizers will manually analyze the games by comparing them with her/his previous available games and appropriate actions will be taken.",
       "In the chat, spam, offensive remarks and accusations are strictly not allowed",
       "The top 8 competitors in the Arena will advance to the championship round.",
-      "After the first round, the remaining regulations will be disclosed."
+      "After the first round, the remaining regulations will be disclosed.",
     ],
     prize: [3000, 2000, 1000, 1000],
     eventHeadName: ["Ayushi Kumari", "Adarsh Singh"],
@@ -1857,42 +1869,46 @@ export default individualEventData = [
     mainEvent: "JUNKYARD WARS",
     eventName: "JUNKYARD WARS",
     teamSize: "1",
-    about: "This event will test your spontaneity and creativity by working on real time modelling project.",
+    about:
+      "This event will test your spontaneity and creativity by working on real time modelling project.",
     rules: [
-           "The students have to participate in a team of 4.",
-           "The first round of this eventwill include an aptitude test in which the students will have to solve interesting puzzles and answer a few intriguing questions.",
-           "In the next round, students will havetodesign and present interesting models from the materials provided onspot.",
-           "The main set of materials will be provided by us.",
-           "The students will be judged on how creative their models are."
-           ],
+      "The students have to participate in a team of 4.",
+      "The first round of this eventwill include an aptitude test in which the students will have to solve interesting puzzles and answer a few intriguing questions.",
+      "In the next round, students will havetodesign and present interesting models from the materials provided onspot.",
+      "The main set of materials will be provided by us.",
+      "The students will be judged on how creative their models are.",
+    ],
     prize: [],
-    eventHeadName: ["Animesh (Branch Head)","Somil","Aditya"],
-    eventHeadNumber: ["9334619002","8303650385","7355704537"],
+    eventHeadName: ["Animesh (Branch Head)", "Somil", "Aditya"],
+    eventHeadNumber: ["9334619002", "8303650385", "7355704537"],
     whatsappLink: "https://chat.whatsapp.com/CGXgQch2FjULmVLDC2stRK",
   },
   {
     mainEvent: "ELEVATOR PITCH",
     eventName: "ELEVATOR PITCH",
     teamSize: "1",
-    about: "Elevator Pitch is an event designed to allow school students to test their caliber intheworldofentrepreneurship and business. The event has several rounds which will present the studentswithfresh and exciting challenges and a chance to compete with fellow students. Studentshavetoparticipate in teams of 4.",
-    rules: ["There are 4 rounds in this event",
-           "1. Case Group Discussion:",
-           "In this round, the students will be working and competing with each other at the same time.",
-            "They will all be presented with a real life problem from the business world and will each be given a set of clues to solve the problem.",
-            "They will have to work with each other and make use of all the clues present if they want to score points.",
-            "In this round the students will all receive an individual score.",
-            "The sum of the individual scores of the teammates will be the team score.",
-           "2. Case Study:",
-           "After the case GD, all the teams will be required to work on a case study.",
-            "They will be provided with necessary information and will be asked to present their ideas and thoughts on the given problem statement.",
-           "3. Situation analysis and presentation:",
-           "The teams will be given a business situation at random and will have to use their brain-power and presence of mind to solve the situation.",
-           "4. Pitch:",
-           "In this round, the teams are required to pitch the idea of their fictitious start-up to a panel of investors.",
-           "There is no elimination in this event. The winners will be decided based on cumulative scores."],
+    about:
+      "Elevator Pitch is an event designed to allow school students to test their caliber intheworldofentrepreneurship and business. The event has several rounds which will present the studentswithfresh and exciting challenges and a chance to compete with fellow students. Studentshavetoparticipate in teams of 4.",
+    rules: [
+      "There are 4 rounds in this event",
+      "1. Case Group Discussion:",
+      "In this round, the students will be working and competing with each other at the same time.",
+      "They will all be presented with a real life problem from the business world and will each be given a set of clues to solve the problem.",
+      "They will have to work with each other and make use of all the clues present if they want to score points.",
+      "In this round the students will all receive an individual score.",
+      "The sum of the individual scores of the teammates will be the team score.",
+      "2. Case Study:",
+      "After the case GD, all the teams will be required to work on a case study.",
+      "They will be provided with necessary information and will be asked to present their ideas and thoughts on the given problem statement.",
+      "3. Situation analysis and presentation:",
+      "The teams will be given a business situation at random and will have to use their brain-power and presence of mind to solve the situation.",
+      "4. Pitch:",
+      "In this round, the teams are required to pitch the idea of their fictitious start-up to a panel of investors.",
+      "There is no elimination in this event. The winners will be decided based on cumulative scores.",
+    ],
     prize: [],
-    eventHeadName: ["Animesh (Branch Head)","Somil","Aditya"],
-    eventHeadNumber: ["9334619002","8303650385","7355704537"],
+    eventHeadName: ["Animesh (Branch Head)", "Somil", "Aditya"],
+    eventHeadNumber: ["9334619002", "8303650385", "7355704537"],
     whatsappLink: "https://chat.whatsapp.com/CuIYSkWosqs3pU9m9eYd0y",
   },
   {
@@ -1911,10 +1927,13 @@ export default individualEventData = [
       " The Quizmaster for the event is one of India’s Leading Quizmasters with more than 500 quiz shows across the Indian Subcontinent – Mr. Palak Kumar. He also happens to be the National Champion of the Tata Crucible Business Quiz in 2017",
     ],
     prize: [
-      "25000 worth prizes, Learning Scholarships worth 1 Lakh for all participants, Tech Gadgets for the Winners, Participation Certificate for All, Certificate of Achievement for Winners, Access to YLP for the Winners","N/A","N/A","N/A"
+      "25000 worth prizes, Learning Scholarships worth 1 Lakh for all participants, Tech Gadgets for the Winners, Participation Certificate for All, Certificate of Achievement for Winners, Access to YLP for the Winners",
+      "N/A",
+      "N/A",
+      "N/A",
     ],
-    eventHeadName: ["Abhishek Kumar","Sutej Sharma"],
-    eventHeadNumber: ["+91 70047 02238","9798334066"],
+    eventHeadName: ["Abhishek Kumar", "Sutej Sharma"],
+    eventHeadNumber: ["+91 70047 02238", "9798334066"],
     whatsappLink: "https://chat.whatsapp.com/ImbnkkwWt8SIeGH7xMaaE3",
   },
 ];
